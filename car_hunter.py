@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Outaouais Car Deal Hunter & True Cost of Ownership (TCO) Scorer
-Region: Gatineau (QC) & Ottawa (ON) — Postal Code: J8P1P3 (75km radius)
+Region: Gatineau (QC) & Ottawa (ON) — Postal Code: J8P1P3 (250km radius)
 Outputs: data/outaouais_best_deals.json with DIRECT INDIVIDUAL CAR LISTING URLs (/v-... and /a/...)
 """
 
@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 
 CONFIG = {
     "postal_code": "J8P1P3",
-    "radius_km": 75,
+    "radius_km": 250,
     "max_price_cad": 28000,
     "max_odometer_km": 90000,
     "min_reliability_score": 80,
@@ -305,13 +305,16 @@ def score_listing(listing: dict, model_cfg: dict) -> dict:
 
 def extract_kijiji_individual_ads(model_cfg: dict) -> list:
     """
-    Scrapes Kijiji Ottawa/Gatineau and extracts DIRECT individual vehicle ad URLs
-    (https://www.kijiji.ca/v-autos-camions/... or /v-cars-trucks/...).
+    Scrapes Kijiji across a 250km radius around Gatineau (J8P1P3)
+    (covering Outaouais, Ottawa/Eastern ON, Laurentians, Laval & Greater Montreal)
+    and extracts DIRECT individual vehicle ad URLs (/v-autos-camions/... or /v-cars-trucks/...).
     """
     listings = []
+    radius_km = float(CONFIG["radius_km"])
     search_urls = [
-        f"https://www.kijiji.ca/b-autos-camions/gatineau/{model_cfg['make_slug']}-{model_cfg['model_slug']}/k0c174l1700185?price=7000__{CONFIG['max_price_cad']}&kilometers=__{CONFIG['max_odometer_km']}",
-        f"https://www.kijiji.ca/b-cars-trucks/ottawa-gatineau-area/{model_cfg['make_slug']}-{model_cfg['model_slug']}/k0c174l1700184?price=7000__{CONFIG['max_price_cad']}&kilometers=__{CONFIG['max_odometer_km']}"
+        f"https://www.kijiji.ca/b-autos-camions/gatineau/{model_cfg['make_slug']}-{model_cfg['model_slug']}/k0c174l1700185?radius={radius_km}&address={CONFIG['postal_code']}&ll=45.476545,-75.701272&price=7000__{CONFIG['max_price_cad']}&kilometers=__{CONFIG['max_odometer_km']}",
+        f"https://www.kijiji.ca/b-cars-trucks/ottawa-gatineau-area/{model_cfg['make_slug']}-{model_cfg['model_slug']}/k0c174l1700184?radius={radius_km}&address={CONFIG['postal_code']}&ll=45.476545,-75.701272&price=7000__{CONFIG['max_price_cad']}&kilometers=__{CONFIG['max_odometer_km']}",
+        f"https://www.kijiji.ca/b-autos-camions/grand-montreal/{model_cfg['make_slug']}-{model_cfg['model_slug']}/k0c174l80002?price=7000__{CONFIG['max_price_cad']}&kilometers=__{CONFIG['max_odometer_km']}"
     ]
 
     for s_url in search_urls:
