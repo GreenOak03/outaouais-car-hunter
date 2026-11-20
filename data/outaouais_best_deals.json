@@ -20,7 +20,7 @@
     "tech_score": 86,
     "deal_score": 95.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355919"
+    "last_verified": "2026-11-20T00:48:58.837573"
   },
   {
     "id": "kijiji-1740607856",
@@ -43,7 +43,7 @@
     "tech_score": 86,
     "deal_score": 95.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355947"
+    "last_verified": "2026-11-20T00:48:58.837597"
   },
   {
     "id": "kijiji-1746079348",
@@ -66,7 +66,7 @@
     "tech_score": 86,
     "deal_score": 95.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355971"
+    "last_verified": "2026-11-20T00:48:58.837614"
   },
   {
     "id": "kijiji-1745718316",
@@ -89,7 +89,7 @@
     "tech_score": 86,
     "deal_score": 95.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355984"
+    "last_verified": "2026-11-20T00:48:58.837625"
   },
   {
     "id": "kijiji-1744299476",
@@ -112,7 +112,7 @@
     "tech_score": 86,
     "deal_score": 95.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.356020"
+    "last_verified": "2026-11-20T00:48:58.837652"
   },
   {
     "id": "kijiji-1730111374",
@@ -135,7 +135,7 @@
     "tech_score": 85,
     "deal_score": 95.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:18.600903"
+    "last_verified": "2026-11-20T00:48:56.083620"
   },
   {
     "id": "kijiji-1744220088",
@@ -158,7 +158,7 @@
     "tech_score": 85,
     "deal_score": 95.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:18.600920"
+    "last_verified": "2026-11-20T00:48:56.083626"
   },
   {
     "id": "1743010229",
@@ -181,7 +181,7 @@
     "tech_score": 85,
     "deal_score": 95.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:18.600939"
+    "last_verified": "2026-11-20T00:48:56.083649"
   },
   {
     "id": "kijiji-1745537294",
@@ -204,7 +204,7 @@
     "tech_score": 83,
     "deal_score": 94.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686654"
+    "last_verified": "2026-11-20T00:48:45.410250"
   },
   {
     "id": "kijiji-1745807916",
@@ -227,7 +227,7 @@
     "tech_score": 83,
     "deal_score": 94.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686702"
+    "last_verified": "2026-11-20T00:48:45.410279"
   },
   {
     "id": "kijiji-1746346235",
@@ -250,7 +250,7 @@
     "tech_score": 86,
     "deal_score": 94.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969807"
+    "last_verified": "2026-11-20T00:48:36.861918"
   },
   {
     "id": "kijiji-1739348207",
@@ -273,7 +273,7 @@
     "tech_score": 86,
     "deal_score": 94.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969843"
+    "last_verified": "2026-11-20T00:48:36.861945"
   },
   {
     "id": "kijiji-1745901423",
@@ -296,7 +296,7 @@
     "tech_score": 86,
     "deal_score": 94.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969929"
+    "last_verified": "2026-11-20T00:48:36.862011"
   },
   {
     "id": "kijiji-1746397759",
@@ -319,7 +319,7 @@
     "tech_score": 81,
     "deal_score": 94.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359576"
+    "last_verified": "2026-11-20T00:48:33.264187"
   },
   {
     "id": "kijiji-1745037768",
@@ -342,53 +342,7 @@
     "tech_score": 81,
     "deal_score": 94.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359600"
-  },
-  {
-    "id": "kijiji-1745433836",
-    "title": "2010 Toyota Corolla CE | Climatisation | Si\u00e8ges Chauffants | MP3",
-    "year": 2021,
-    "price": 9795.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2010-toyota-corolla-ce-climatisation-sieges-chauffants-mp3/1745433836",
-    "model_id": "toyota-corolla",
-    "make": "Toyota",
-    "model": "Corolla",
-    "fair_market_value": 20900.0,
-    "discount_cad": 11105.0,
-    "discount_pct": 53.1,
-    "est_monthly_tco_qc": 270.83,
-    "monthly_delta_vs_current": 375.17,
-    "reliability_score": 95,
-    "tech_score": 81,
-    "deal_score": 94.5,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359781"
-  },
-  {
-    "id": "1745826396",
-    "title": "2018 Subaru Crosstrek Sport / Si\u00e8ges chauffant / mags / Toit ouv",
-    "year": 2018,
-    "price": 18995.0,
-    "km": 71111,
-    "location": "Gatineau / Outaouais, QC",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2018-subaru-crosstrek-sport-sieges-chauffant-mags-toit-ouv/1745826396",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 4905.0,
-    "discount_pct": 20.5,
-    "est_monthly_tco_qc": 443.5,
-    "monthly_delta_vs_current": 202.5,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 94.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190794"
+    "last_verified": "2026-11-20T00:48:33.264205"
   },
   {
     "id": "1746371867",
@@ -411,7 +365,7 @@
     "tech_score": 96,
     "deal_score": 94.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:23.899371"
+    "last_verified": "2026-11-20T00:49:01.175944"
   },
   {
     "id": "kijiji-1745848243",
@@ -434,7 +388,7 @@
     "tech_score": 85,
     "deal_score": 93.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445960"
+    "last_verified": "2026-11-20T00:48:42.758446"
   },
   {
     "id": "kijiji-1746388154",
@@ -457,7 +411,7 @@
     "tech_score": 85,
     "deal_score": 93.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445976"
+    "last_verified": "2026-11-20T00:48:42.758455"
   },
   {
     "id": "kijiji-1744855063",
@@ -480,7 +434,7 @@
     "tech_score": 85,
     "deal_score": 93.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446009"
+    "last_verified": "2026-11-20T00:48:42.758481"
   },
   {
     "id": "kijiji-1745735128",
@@ -503,7 +457,7 @@
     "tech_score": 85,
     "deal_score": 93.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446048"
+    "last_verified": "2026-11-20T00:48:42.758534"
   },
   {
     "id": "kijiji-1744855094",
@@ -526,7 +480,7 @@
     "tech_score": 85,
     "deal_score": 91.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446020"
+    "last_verified": "2026-11-20T00:48:42.758489"
   },
   {
     "id": "kijiji-1746250180",
@@ -549,7 +503,7 @@
     "tech_score": 86,
     "deal_score": 87.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969915"
+    "last_verified": "2026-11-20T00:48:36.862003"
   },
   {
     "id": "kijiji-1744855103",
@@ -572,7 +526,30 @@
     "tech_score": 85,
     "deal_score": 87.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446003"
+    "last_verified": "2026-11-20T00:48:42.758478"
+  },
+  {
+    "id": "1746303047",
+    "title": "2019 Subaru Crosstrek Convenience",
+    "year": 2019,
+    "price": 19995.0,
+    "km": 79702,
+    "location": "Gatineau / Outaouais, QC",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2019-subaru-crosstrek-convenience/1746303047",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 3905.0,
+    "discount_pct": 16.3,
+    "est_monthly_tco_qc": 460.17,
+    "monthly_delta_vs_current": 185.83,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 85.6,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877575"
   },
   {
     "id": "kijiji-1745517130",
@@ -595,7 +572,7 @@
     "tech_score": 83,
     "deal_score": 83.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686696"
+    "last_verified": "2026-11-20T00:48:45.410275"
   },
   {
     "id": "kijiji-1746136631",
@@ -618,7 +595,7 @@
     "tech_score": 86,
     "deal_score": 83.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355939"
+    "last_verified": "2026-11-20T00:48:58.837591"
   },
   {
     "id": "kijiji-1745999786",
@@ -641,7 +618,7 @@
     "tech_score": 86,
     "deal_score": 83.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355954"
+    "last_verified": "2026-11-20T00:48:58.837603"
   },
   {
     "id": "kijiji-1745603430",
@@ -664,7 +641,7 @@
     "tech_score": 86,
     "deal_score": 83.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.356002"
+    "last_verified": "2026-11-20T00:48:58.837639"
   },
   {
     "id": "kijiji-1745384963",
@@ -687,7 +664,7 @@
     "tech_score": 86,
     "deal_score": 83.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.356031"
+    "last_verified": "2026-11-20T00:48:58.837660"
   },
   {
     "id": "kijiji-1745517170",
@@ -710,7 +687,7 @@
     "tech_score": 86,
     "deal_score": 83.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.356041"
+    "last_verified": "2026-11-20T00:48:58.837668"
   },
   {
     "id": "kijiji-1746137140",
@@ -733,7 +710,7 @@
     "tech_score": 85,
     "deal_score": 82.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446025"
+    "last_verified": "2026-11-20T00:48:42.758493"
   },
   {
     "id": "kijiji-1746046316",
@@ -756,7 +733,7 @@
     "tech_score": 85,
     "deal_score": 82.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446059"
+    "last_verified": "2026-11-20T00:48:42.758544"
   },
   {
     "id": "kijiji-1745912308",
@@ -779,7 +756,7 @@
     "tech_score": 85,
     "deal_score": 80.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:18.600896"
+    "last_verified": "2026-11-20T00:48:56.083614"
   },
   {
     "id": "kijiji-1745533479",
@@ -802,7 +779,7 @@
     "tech_score": 85,
     "deal_score": 80.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:18.600911"
+    "last_verified": "2026-11-20T00:48:56.083631"
   },
   {
     "id": "kijiji-1745811693",
@@ -825,7 +802,7 @@
     "tech_score": 83,
     "deal_score": 79.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686529"
+    "last_verified": "2026-11-20T00:48:45.410152"
   },
   {
     "id": "kijiji-1746044633",
@@ -848,7 +825,7 @@
     "tech_score": 83,
     "deal_score": 79.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190729"
+    "last_verified": "2026-11-20T00:48:50.877500"
   },
   {
     "id": "kijiji-1745912377",
@@ -871,7 +848,7 @@
     "tech_score": 86,
     "deal_score": 79.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355977"
+    "last_verified": "2026-11-20T00:48:58.837619"
   },
   {
     "id": "kijiji-1745385040",
@@ -894,7 +871,7 @@
     "tech_score": 86,
     "deal_score": 79.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.356025"
+    "last_verified": "2026-11-20T00:48:58.837656"
   },
   {
     "id": "kijiji-1744994050",
@@ -917,7 +894,7 @@
     "tech_score": 85,
     "deal_score": 78.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445937"
+    "last_verified": "2026-11-20T00:48:42.758429"
   },
   {
     "id": "kijiji-1745943973",
@@ -940,7 +917,7 @@
     "tech_score": 86,
     "deal_score": 76.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.356008"
+    "last_verified": "2026-11-20T00:48:58.837644"
   },
   {
     "id": "kijiji-1744210304",
@@ -963,7 +940,7 @@
     "tech_score": 83,
     "deal_score": 75.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686685"
+    "last_verified": "2026-11-20T00:48:45.410267"
   },
   {
     "id": "kijiji-1745674035",
@@ -986,7 +963,7 @@
     "tech_score": 86,
     "deal_score": 73.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969819"
+    "last_verified": "2026-11-20T00:48:36.861933"
   },
   {
     "id": "kijiji-1746313730",
@@ -1009,7 +986,7 @@
     "tech_score": 84,
     "deal_score": 71.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:09.644884"
+    "last_verified": "2026-11-20T00:48:47.424111"
   },
   {
     "id": "kijiji-1745670926",
@@ -1032,7 +1009,7 @@
     "tech_score": 86,
     "deal_score": 71.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969882"
+    "last_verified": "2026-11-20T00:48:36.861975"
   },
   {
     "id": "kijiji-1746272245",
@@ -1055,7 +1032,7 @@
     "tech_score": 81,
     "deal_score": 71.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359624"
+    "last_verified": "2026-11-20T00:48:33.264220"
   },
   {
     "id": "kijiji-1746228478",
@@ -1078,7 +1055,7 @@
     "tech_score": 85,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:18.600876"
+    "last_verified": "2026-11-20T00:48:56.083597"
   },
   {
     "id": "kijiji-1745868395",
@@ -1101,7 +1078,7 @@
     "tech_score": 86,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355991"
+    "last_verified": "2026-11-20T00:48:58.837630"
   },
   {
     "id": "kijiji-1745196349",
@@ -1124,7 +1101,7 @@
     "tech_score": 86,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.355996"
+    "last_verified": "2026-11-20T00:48:58.837635"
   },
   {
     "id": "kijiji-1745473887",
@@ -1147,7 +1124,7 @@
     "tech_score": 86,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.356014"
+    "last_verified": "2026-11-20T00:48:58.837648"
   },
   {
     "id": "kijiji-1745560879",
@@ -1170,7 +1147,7 @@
     "tech_score": 86,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:21.356036"
+    "last_verified": "2026-11-20T00:48:58.837664"
   },
   {
     "id": "kijiji-1744855148",
@@ -1193,7 +1170,7 @@
     "tech_score": 85,
     "deal_score": 69.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446014"
+    "last_verified": "2026-11-20T00:48:42.758485"
   },
   {
     "id": "kijiji-1745823390",
@@ -1216,7 +1193,7 @@
     "tech_score": 86,
     "deal_score": 68.4,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969909"
+    "last_verified": "2026-11-20T00:48:36.861999"
   },
   {
     "id": "kijiji-1743480964",
@@ -1239,7 +1216,7 @@
     "tech_score": 86,
     "deal_score": 68.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969758"
+    "last_verified": "2026-11-20T00:48:36.861893"
   },
   {
     "id": "kijiji-1746228595",
@@ -1262,7 +1239,7 @@
     "tech_score": 85,
     "deal_score": 65.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446041"
+    "last_verified": "2026-11-20T00:48:42.758506"
   },
   {
     "id": "kijiji-1744948056",
@@ -1285,7 +1262,7 @@
     "tech_score": 90,
     "deal_score": 64.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:16.044742"
+    "last_verified": "2026-11-20T00:48:53.385233"
   },
   {
     "id": "1744716587",
@@ -1308,7 +1285,7 @@
     "tech_score": 81,
     "deal_score": 61.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359792"
+    "last_verified": "2026-11-20T00:48:33.264334"
   },
   {
     "id": "kijiji-1745912310",
@@ -1331,7 +1308,7 @@
     "tech_score": 86,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969923"
+    "last_verified": "2026-11-20T00:48:36.862007"
   },
   {
     "id": "kijiji-1746361850",
@@ -1354,7 +1331,7 @@
     "tech_score": 83,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686604"
+    "last_verified": "2026-11-20T00:48:45.410208"
   },
   {
     "id": "kijiji-1745603393",
@@ -1377,7 +1354,7 @@
     "tech_score": 83,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686674"
+    "last_verified": "2026-11-20T00:48:45.410259"
   },
   {
     "id": "kijiji-1745543217",
@@ -1400,7 +1377,7 @@
     "tech_score": 83,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686691"
+    "last_verified": "2026-11-20T00:48:45.410271"
   },
   {
     "id": "kijiji-1745393595",
@@ -1423,7 +1400,7 @@
     "tech_score": 83,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686754"
+    "last_verified": "2026-11-20T00:48:45.410317"
   },
   {
     "id": "1745912384",
@@ -1446,7 +1423,7 @@
     "tech_score": 83,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686782"
+    "last_verified": "2026-11-20T00:48:45.410338"
   },
   {
     "id": "1745080412",
@@ -1469,7 +1446,7 @@
     "tech_score": 90,
     "deal_score": 60.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:16.044806"
+    "last_verified": "2026-11-20T00:48:53.385275"
   },
   {
     "id": "kijiji-1724405635",
@@ -1492,7 +1469,7 @@
     "tech_score": 90,
     "deal_score": 59.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:16.044772"
+    "last_verified": "2026-11-20T00:48:53.385255"
   },
   {
     "id": "kijiji-1745703283",
@@ -1515,7 +1492,7 @@
     "tech_score": 86,
     "deal_score": 59.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969936"
+    "last_verified": "2026-11-20T00:48:36.862017"
   },
   {
     "id": "kijiji-1745761355",
@@ -1538,7 +1515,7 @@
     "tech_score": 84,
     "deal_score": 58.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:09.644912"
+    "last_verified": "2026-11-20T00:48:47.424133"
   },
   {
     "id": "kijiji-1744716514",
@@ -1561,7 +1538,7 @@
     "tech_score": 85,
     "deal_score": 56.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446065"
+    "last_verified": "2026-11-20T00:48:42.758549"
   },
   {
     "id": "1744994064",
@@ -1584,7 +1561,7 @@
     "tech_score": 85,
     "deal_score": 56.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446128"
+    "last_verified": "2026-11-20T00:48:42.758578"
   },
   {
     "id": "kijiji-1744117721",
@@ -1607,7 +1584,7 @@
     "tech_score": 83,
     "deal_score": 55.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686720"
+    "last_verified": "2026-11-20T00:48:45.410292"
   },
   {
     "id": "kijiji-1745143590",
@@ -1630,7 +1607,7 @@
     "tech_score": 90,
     "deal_score": 54.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:16.044793"
+    "last_verified": "2026-11-20T00:48:53.385270"
   },
   {
     "id": "kijiji-1746183418",
@@ -1653,7 +1630,7 @@
     "tech_score": 90,
     "deal_score": 53.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:16.044764"
+    "last_verified": "2026-11-20T00:48:53.385250"
   },
   {
     "id": "kijiji-1744901120",
@@ -1676,7 +1653,7 @@
     "tech_score": 85,
     "deal_score": 53.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445987"
+    "last_verified": "2026-11-20T00:48:42.758465"
   },
   {
     "id": "kijiji-1745152592",
@@ -1699,7 +1676,7 @@
     "tech_score": 84,
     "deal_score": 52.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:09.644904"
+    "last_verified": "2026-11-20T00:48:47.424127"
   },
   {
     "id": "kijiji-1746315642",
@@ -1722,7 +1699,7 @@
     "tech_score": 81,
     "deal_score": 52.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359615"
+    "last_verified": "2026-11-20T00:48:33.264214"
   },
   {
     "id": "kijiji-1746083844",
@@ -1745,7 +1722,7 @@
     "tech_score": 81,
     "deal_score": 51.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359707"
+    "last_verified": "2026-11-20T00:48:33.264280"
   },
   {
     "id": "kijiji-1745855963",
@@ -1768,7 +1745,7 @@
     "tech_score": 81,
     "deal_score": 51.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359775"
+    "last_verified": "2026-11-20T00:48:33.264330"
   },
   {
     "id": "kijiji-1746125378",
@@ -1791,7 +1768,7 @@
     "tech_score": 83,
     "deal_score": 49.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190716"
+    "last_verified": "2026-11-20T00:48:50.877460"
   },
   {
     "id": "kijiji-1746404920",
@@ -1814,7 +1791,7 @@
     "tech_score": 85,
     "deal_score": 49.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445912"
+    "last_verified": "2026-11-20T00:48:42.758410"
   },
   {
     "id": "kijiji-1746405051",
@@ -1837,7 +1814,7 @@
     "tech_score": 85,
     "deal_score": 49.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445919"
+    "last_verified": "2026-11-20T00:48:42.758415"
   },
   {
     "id": "kijiji-1744895403",
@@ -1860,7 +1837,7 @@
     "tech_score": 83,
     "deal_score": 49.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686680"
+    "last_verified": "2026-11-20T00:48:45.410263"
   },
   {
     "id": "kijiji-1742610692",
@@ -1883,7 +1860,7 @@
     "tech_score": 83,
     "deal_score": 49.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686760"
+    "last_verified": "2026-11-20T00:48:45.410321"
   },
   {
     "id": "kijiji-1746183349",
@@ -1906,7 +1883,7 @@
     "tech_score": 86,
     "deal_score": 47.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969861"
+    "last_verified": "2026-11-20T00:48:36.861955"
   },
   {
     "id": "kijiji-1745868372",
@@ -1929,7 +1906,7 @@
     "tech_score": 86,
     "deal_score": 47.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969903"
+    "last_verified": "2026-11-20T00:48:36.861990"
   },
   {
     "id": "kijiji-1746404982",
@@ -1952,7 +1929,7 @@
     "tech_score": 81,
     "deal_score": 43.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359560"
+    "last_verified": "2026-11-20T00:48:33.264177"
   },
   {
     "id": "kijiji-1745645969",
@@ -1975,7 +1952,7 @@
     "tech_score": 81,
     "deal_score": 43.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359740"
+    "last_verified": "2026-11-20T00:48:33.264302"
   },
   {
     "id": "kijiji-1745080397",
@@ -1998,7 +1975,7 @@
     "tech_score": 85,
     "deal_score": 43.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445925"
+    "last_verified": "2026-11-20T00:48:42.758419"
   },
   {
     "id": "kijiji-1746046323",
@@ -2021,7 +1998,7 @@
     "tech_score": 86,
     "deal_score": 42.4,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969867"
+    "last_verified": "2026-11-20T00:48:36.861964"
   },
   {
     "id": "kijiji-1746228524",
@@ -2044,7 +2021,7 @@
     "tech_score": 83,
     "deal_score": 42.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686592"
+    "last_verified": "2026-11-20T00:48:45.410203"
   },
   {
     "id": "kijiji-1726226127",
@@ -2067,7 +2044,7 @@
     "tech_score": 84,
     "deal_score": 40.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:09.644922"
+    "last_verified": "2026-11-20T00:48:47.424140"
   },
   {
     "id": "kijiji-1745429953",
@@ -2090,7 +2067,7 @@
     "tech_score": 85,
     "deal_score": 40.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:18.600929"
+    "last_verified": "2026-11-20T00:48:56.083638"
   },
   {
     "id": "kijiji-1744901084",
@@ -2113,30 +2090,7 @@
     "tech_score": 85,
     "deal_score": 40.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445993"
-  },
-  {
-    "id": "kijiji-1745591775",
-    "title": "2024 Mazda CX-5 GS \u00c9cran central Mazda Connect de 10,25 pouces",
-    "year": 2024,
-    "price": 26844.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2024-mazda-cx-5-gs-ecran-central-mazda-connect-de-10-25-pouces/1745591775",
-    "model_id": "mazda-cx5",
-    "make": "Mazda",
-    "model": "CX-5",
-    "fair_market_value": 24800.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 590.76,
-    "monthly_delta_vs_current": 55.24,
-    "reliability_score": 91,
-    "tech_score": 83,
-    "deal_score": 39.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686553"
+    "last_verified": "2026-11-20T00:48:42.758469"
   },
   {
     "id": "kijiji-1744491105",
@@ -2159,7 +2113,30 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686562"
+    "last_verified": "2026-11-20T00:48:45.410169"
+  },
+  {
+    "id": "kijiji-1745591775",
+    "title": "2024 Mazda CX-5 GS \u00c9cran central Mazda Connect de 10,25 pouces",
+    "year": 2024,
+    "price": 26844.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2024-mazda-cx-5-gs-ecran-central-mazda-connect-de-10-25-pouces/1745591775",
+    "model_id": "mazda-cx5",
+    "make": "Mazda",
+    "model": "CX-5",
+    "fair_market_value": 24800.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 590.76,
+    "monthly_delta_vs_current": 55.24,
+    "reliability_score": 91,
+    "tech_score": 83,
+    "deal_score": 39.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:45.410176"
   },
   {
     "id": "kijiji-1746405081",
@@ -2182,7 +2159,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686569"
+    "last_verified": "2026-11-20T00:48:45.410182"
   },
   {
     "id": "kijiji-1746405071",
@@ -2205,7 +2182,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686575"
+    "last_verified": "2026-11-20T00:48:45.410186"
   },
   {
     "id": "kijiji-1746404976",
@@ -2228,7 +2205,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686580"
+    "last_verified": "2026-11-20T00:48:45.410190"
   },
   {
     "id": "kijiji-1744901124",
@@ -2251,30 +2228,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686598"
-  },
-  {
-    "id": "kijiji-1744765186",
-    "title": "2023 Mazda CX-5 GX",
-    "year": 2023,
-    "price": 26590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-mazda-cx-5-gx/1744765186",
-    "model_id": "mazda-cx5",
-    "make": "Mazda",
-    "model": "CX-5",
-    "fair_market_value": 24800.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 585.89,
-    "monthly_delta_vs_current": 60.11,
-    "reliability_score": 91,
-    "tech_score": 83,
-    "deal_score": 39.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686610"
+    "last_verified": "2026-11-20T00:48:45.410199"
   },
   {
     "id": "kijiji-1744491117",
@@ -2297,7 +2251,30 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686616"
+    "last_verified": "2026-11-20T00:48:45.410213"
+  },
+  {
+    "id": "kijiji-1744765186",
+    "title": "2023 Mazda CX-5 GX",
+    "year": 2023,
+    "price": 26590.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-mazda-cx-5-gx/1744765186",
+    "model_id": "mazda-cx5",
+    "make": "Mazda",
+    "model": "CX-5",
+    "fair_market_value": 24800.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 585.89,
+    "monthly_delta_vs_current": 60.11,
+    "reliability_score": 91,
+    "tech_score": 83,
+    "deal_score": 39.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:45.410218"
   },
   {
     "id": "kijiji-1744677272",
@@ -2320,7 +2297,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686622"
+    "last_verified": "2026-11-20T00:48:45.410222"
   },
   {
     "id": "kijiji-1744948123",
@@ -2343,7 +2320,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686629"
+    "last_verified": "2026-11-20T00:48:45.410226"
   },
   {
     "id": "kijiji-1745823350",
@@ -2366,7 +2343,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686635"
+    "last_verified": "2026-11-20T00:48:45.410230"
   },
   {
     "id": "kijiji-1745724135",
@@ -2389,53 +2366,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686641"
-  },
-  {
-    "id": "kijiji-1744711732",
-    "title": "2021 Mazda CX-5 Signature / Camera / Regulateur de vitesse Bien ",
-    "year": 2021,
-    "price": 27695.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2021-mazda-cx-5-signature-camera-regulateur-de-vitesse-bien/1744711732",
-    "model_id": "mazda-cx5",
-    "make": "Mazda",
-    "model": "CX-5",
-    "fair_market_value": 24800.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 607.07,
-    "monthly_delta_vs_current": 38.93,
-    "reliability_score": 91,
-    "tech_score": 83,
-    "deal_score": 39.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686647"
-  },
-  {
-    "id": "kijiji-1745645873",
-    "title": "2019 Mazda CX-5 GT",
-    "year": 2019,
-    "price": 24990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2019-mazda-cx-5-gt/1745645873",
-    "model_id": "mazda-cx5",
-    "make": "Mazda",
-    "model": "CX-5",
-    "fair_market_value": 24800.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 555.23,
-    "monthly_delta_vs_current": 90.77,
-    "reliability_score": 91,
-    "tech_score": 83,
-    "deal_score": 39.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686661"
+    "last_verified": "2026-11-20T00:48:45.410235"
   },
   {
     "id": "kijiji-1744491114",
@@ -2458,7 +2389,53 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686668"
+    "last_verified": "2026-11-20T00:48:45.410240"
+  },
+  {
+    "id": "kijiji-1744711732",
+    "title": "2021 Mazda CX-5 Signature / Camera / Regulateur de vitesse Bien ",
+    "year": 2021,
+    "price": 27695.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2021-mazda-cx-5-signature-camera-regulateur-de-vitesse-bien/1744711732",
+    "model_id": "mazda-cx5",
+    "make": "Mazda",
+    "model": "CX-5",
+    "fair_market_value": 24800.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 607.07,
+    "monthly_delta_vs_current": 38.93,
+    "reliability_score": 91,
+    "tech_score": 83,
+    "deal_score": 39.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:45.410245"
+  },
+  {
+    "id": "kijiji-1745645873",
+    "title": "2019 Mazda CX-5 GT",
+    "year": 2019,
+    "price": 24990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2019-mazda-cx-5-gt/1745645873",
+    "model_id": "mazda-cx5",
+    "make": "Mazda",
+    "model": "CX-5",
+    "fair_market_value": 24800.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 555.23,
+    "monthly_delta_vs_current": 90.77,
+    "reliability_score": 91,
+    "tech_score": 83,
+    "deal_score": 39.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:45.410255"
   },
   {
     "id": "kijiji-1743946653",
@@ -2481,7 +2458,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686709"
+    "last_verified": "2026-11-20T00:48:45.410284"
   },
   {
     "id": "kijiji-1745166537",
@@ -2504,7 +2481,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686714"
+    "last_verified": "2026-11-20T00:48:45.410288"
   },
   {
     "id": "kijiji-1745429952",
@@ -2527,7 +2504,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686725"
+    "last_verified": "2026-11-20T00:48:45.410296"
   },
   {
     "id": "kijiji-1745431209",
@@ -2550,7 +2527,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686732"
+    "last_verified": "2026-11-20T00:48:45.410300"
   },
   {
     "id": "kijiji-1745255268",
@@ -2573,7 +2550,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686737"
+    "last_verified": "2026-11-20T00:48:45.410304"
   },
   {
     "id": "kijiji-1745211062",
@@ -2596,7 +2573,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686742"
+    "last_verified": "2026-11-20T00:48:45.410308"
   },
   {
     "id": "kijiji-1738508807",
@@ -2619,30 +2596,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686748"
-  },
-  {
-    "id": "kijiji-1743760760",
-    "title": "2024 Mazda CX-30 GX",
-    "year": 2024,
-    "price": 25344.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2024-mazda-cx-30-gx/1743760760",
-    "model_id": "mazda-cx5",
-    "make": "Mazda",
-    "model": "CX-5",
-    "fair_market_value": 24800.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 562.02,
-    "monthly_delta_vs_current": 83.98,
-    "reliability_score": 91,
-    "tech_score": 83,
-    "deal_score": 39.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686765"
+    "last_verified": "2026-11-20T00:48:45.410312"
   },
   {
     "id": "kijiji-1741769683",
@@ -2665,7 +2619,30 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686771"
+    "last_verified": "2026-11-20T00:48:45.410325"
+  },
+  {
+    "id": "kijiji-1743760760",
+    "title": "2024 Mazda CX-30 GX",
+    "year": 2024,
+    "price": 25344.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2024-mazda-cx-30-gx/1743760760",
+    "model_id": "mazda-cx5",
+    "make": "Mazda",
+    "model": "CX-5",
+    "fair_market_value": 24800.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 562.02,
+    "monthly_delta_vs_current": 83.98,
+    "reliability_score": 91,
+    "tech_score": 83,
+    "deal_score": 39.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:45.410329"
   },
   {
     "id": "kijiji-1742943287",
@@ -2688,122 +2665,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:07.686776"
-  },
-  {
-    "id": "kijiji-1743881482",
-    "title": "2023 Mazda Mazda3",
-    "year": 2023,
-    "price": 23498.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/london/2023-mazda-mazda3/1743881482",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 525.59,
-    "monthly_delta_vs_current": 120.41,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969737"
-  },
-  {
-    "id": "kijiji-1746034191",
-    "title": "2024 Mazda Mazda3 GT turbo| Navigation | Siege conducteur memoir",
-    "year": 2024,
-    "price": 26844.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2024-mazda-mazda3-gt-turbo-navigation-siege-conducteur-memoir/1746034191",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 588.3,
-    "monthly_delta_vs_current": 57.7,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969767"
-  },
-  {
-    "id": "kijiji-1746405052",
-    "title": "2022 Mazda Mazda3 GT",
-    "year": 2022,
-    "price": 23990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-mazda-mazda3-gt/1746405052",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 533.79,
-    "monthly_delta_vs_current": 112.21,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969774"
-  },
-  {
-    "id": "kijiji-1746361930",
-    "title": "2024 Mazda Mazda3 GT",
-    "year": 2024,
-    "price": 27290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2024-mazda-mazda3-gt/1746361930",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 596.85,
-    "monthly_delta_vs_current": 49.15,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969786"
-  },
-  {
-    "id": "kijiji-1744993996",
-    "title": "2023 Mazda Mazda3 GS",
-    "year": 2023,
-    "price": 25290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-mazda-mazda3-gs/1744993996",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 558.52,
-    "monthly_delta_vs_current": 87.48,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969793"
+    "last_verified": "2026-11-20T00:48:45.410333"
   },
   {
     "id": "kijiji-1744624777",
@@ -2826,7 +2688,76 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969799"
+    "last_verified": "2026-11-20T00:48:36.861875"
+  },
+  {
+    "id": "kijiji-1746405052",
+    "title": "2022 Mazda Mazda3 GT",
+    "year": 2022,
+    "price": 23990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-mazda-mazda3-gt/1746405052",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 533.79,
+    "monthly_delta_vs_current": 112.21,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:36.861899"
+  },
+  {
+    "id": "kijiji-1746361930",
+    "title": "2024 Mazda Mazda3 GT",
+    "year": 2024,
+    "price": 27290.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2024-mazda-mazda3-gt/1746361930",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 596.85,
+    "monthly_delta_vs_current": 49.15,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:36.861904"
+  },
+  {
+    "id": "kijiji-1744993996",
+    "title": "2023 Mazda Mazda3 GS",
+    "year": 2023,
+    "price": 25290.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-mazda-mazda3-gs/1744993996",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 558.52,
+    "monthly_delta_vs_current": 87.48,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:36.861909"
   },
   {
     "id": "kijiji-1746228563",
@@ -2849,53 +2780,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969813"
-  },
-  {
-    "id": "kijiji-1746272381",
-    "title": "2020 Mazda Mazda3 Sport GT",
-    "year": 2020,
-    "price": 22990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-mazda-mazda3-sport-gt/1746272381",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 517.12,
-    "monthly_delta_vs_current": 128.88,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969825"
-  },
-  {
-    "id": "kijiji-1746228601",
-    "title": "2020 Mazda Mazda3 Sport GT",
-    "year": 2020,
-    "price": 24590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-mazda-mazda3-sport-gt/1746228601",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 545.11,
-    "monthly_delta_vs_current": 100.89,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969831"
+    "last_verified": "2026-11-20T00:48:36.861924"
   },
   {
     "id": "kijiji-1740107045",
@@ -2918,7 +2803,53 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969837"
+    "last_verified": "2026-11-20T00:48:36.861928"
+  },
+  {
+    "id": "kijiji-1746272381",
+    "title": "2020 Mazda Mazda3 Sport GT",
+    "year": 2020,
+    "price": 22990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-mazda-mazda3-sport-gt/1746272381",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 517.12,
+    "monthly_delta_vs_current": 128.88,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:36.861937"
+  },
+  {
+    "id": "kijiji-1746228601",
+    "title": "2020 Mazda Mazda3 Sport GT",
+    "year": 2020,
+    "price": 24590.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-mazda-mazda3-sport-gt/1746228601",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 545.11,
+    "monthly_delta_vs_current": 100.89,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:36.861941"
   },
   {
     "id": "kijiji-1743943233",
@@ -2941,7 +2872,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969849"
+    "last_verified": "2026-11-20T00:48:36.861950"
   },
   {
     "id": "kijiji-1744855113",
@@ -2964,7 +2895,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969855"
+    "last_verified": "2026-11-20T00:48:36.861959"
   },
   {
     "id": "kijiji-1744809558",
@@ -2987,7 +2918,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969873"
+    "last_verified": "2026-11-20T00:48:36.861968"
   },
   {
     "id": "kijiji-1746046392",
@@ -3010,7 +2941,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969887"
+    "last_verified": "2026-11-20T00:48:36.861979"
   },
   {
     "id": "kijiji-1746046363",
@@ -3033,7 +2964,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969893"
+    "last_verified": "2026-11-20T00:48:36.861983"
   },
   {
     "id": "kijiji-1744677268",
@@ -3056,30 +2987,53 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969898"
+    "last_verified": "2026-11-20T00:48:36.861987"
   },
   {
-    "id": "1744491106",
-    "title": "2025 Mazda Mazda3 Sport GS | mags | bluetooth",
-    "year": 2025,
-    "price": 24844.0,
-    "km": 40850,
-    "location": "Gatineau / Outaouais, QC",
+    "id": "kijiji-1746034191",
+    "title": "2024 Mazda Mazda3 GT turbo| Navigation | Siege conducteur memoir",
+    "year": 2024,
+    "price": 26844.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2025-mazda-mazda3-sport-gs-mags-bluetooth/1744491106",
+    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2024-mazda-mazda3-gt-turbo-navigation-siege-conducteur-memoir/1746034191",
     "model_id": "mazda-3-awd",
     "make": "Mazda",
     "model": "Mazda3",
     "fair_market_value": 22200.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 549.98,
-    "monthly_delta_vs_current": 96.02,
+    "est_monthly_tco_qc": 588.3,
+    "monthly_delta_vs_current": 57.7,
     "reliability_score": 90,
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:56.969942"
+    "last_verified": "2026-11-20T00:48:36.861995"
+  },
+  {
+    "id": "1743485470",
+    "title": "2025 Mazda Mazda3 Sport GX FWD | No Accidents",
+    "year": 2025,
+    "price": 25395.0,
+    "km": 26114,
+    "location": "Gatineau / Outaouais, QC",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/hamilton/2025-mazda-mazda3-sport-gx-fwd-no-accidents/1743485470",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 560.54,
+    "monthly_delta_vs_current": 85.46,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:36.862022"
   },
   {
     "id": "kijiji-1742235723",
@@ -3102,7 +3056,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359536"
+    "last_verified": "2026-11-20T00:48:33.264158"
   },
   {
     "id": "kijiji-1745080380",
@@ -3125,7 +3079,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359569"
+    "last_verified": "2026-11-20T00:48:33.264182"
   },
   {
     "id": "kijiji-1746405037",
@@ -3148,7 +3102,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359582"
+    "last_verified": "2026-11-20T00:48:33.264192"
   },
   {
     "id": "kijiji-1746082236",
@@ -3171,7 +3125,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359594"
+    "last_verified": "2026-11-20T00:48:33.264201"
   },
   {
     "id": "kijiji-1744948125",
@@ -3194,7 +3148,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359630"
+    "last_verified": "2026-11-20T00:48:33.264225"
   },
   {
     "id": "kijiji-1744901125",
@@ -3217,7 +3171,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359636"
+    "last_verified": "2026-11-20T00:48:33.264229"
   },
   {
     "id": "kijiji-1745152594",
@@ -3240,7 +3194,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359643"
+    "last_verified": "2026-11-20T00:48:33.264234"
   },
   {
     "id": "kijiji-1744855142",
@@ -3263,7 +3217,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359648"
+    "last_verified": "2026-11-20T00:48:33.264238"
   },
   {
     "id": "kijiji-1746272395",
@@ -3286,7 +3240,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359654"
+    "last_verified": "2026-11-20T00:48:33.264243"
   },
   {
     "id": "kijiji-1746405008",
@@ -3309,7 +3263,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359660"
+    "last_verified": "2026-11-20T00:48:33.264247"
   },
   {
     "id": "kijiji-1745999558",
@@ -3332,7 +3286,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359666"
+    "last_verified": "2026-11-20T00:48:33.264250"
   },
   {
     "id": "kijiji-1745999673",
@@ -3355,7 +3309,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359671"
+    "last_verified": "2026-11-20T00:48:33.264254"
   },
   {
     "id": "kijiji-1746315502",
@@ -3378,7 +3332,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359676"
+    "last_verified": "2026-11-20T00:48:33.264259"
   },
   {
     "id": "kijiji-1746136772",
@@ -3401,7 +3355,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359683"
+    "last_verified": "2026-11-20T00:48:33.264263"
   },
   {
     "id": "kijiji-1745912373",
@@ -3424,7 +3378,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359688"
+    "last_verified": "2026-11-20T00:48:33.264266"
   },
   {
     "id": "kijiji-1745459214",
@@ -3447,7 +3401,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359695"
+    "last_verified": "2026-11-20T00:48:33.264272"
   },
   {
     "id": "kijiji-1739041421",
@@ -3470,7 +3424,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359701"
+    "last_verified": "2026-11-20T00:48:33.264275"
   },
   {
     "id": "kijiji-1745823365",
@@ -3493,7 +3447,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359713"
+    "last_verified": "2026-11-20T00:48:33.264283"
   },
   {
     "id": "kijiji-1745999952",
@@ -3516,7 +3470,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359718"
+    "last_verified": "2026-11-20T00:48:33.264287"
   },
   {
     "id": "kijiji-1745733018",
@@ -3539,7 +3493,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359724"
+    "last_verified": "2026-11-20T00:48:33.264290"
   },
   {
     "id": "kijiji-1738768797",
@@ -3562,7 +3516,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359729"
+    "last_verified": "2026-11-20T00:48:33.264294"
   },
   {
     "id": "kijiji-1745868358",
@@ -3585,7 +3539,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359735"
+    "last_verified": "2026-11-20T00:48:33.264298"
   },
   {
     "id": "kijiji-1743786865",
@@ -3608,7 +3562,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359747"
+    "last_verified": "2026-11-20T00:48:33.264307"
   },
   {
     "id": "kijiji-1745823286",
@@ -3631,7 +3585,30 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359753"
+    "last_verified": "2026-11-20T00:48:33.264311"
+  },
+  {
+    "id": "kijiji-1726300226",
+    "title": "2020 Toyota Corolla LE - CLEAN CARFAX, LOW MILEAGE, READY!",
+    "year": 2020,
+    "price": 21995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/pembroke/2020-toyota-corolla-le-clean-carfax-low-mileage-ready/1726300226",
+    "model_id": "toyota-corolla",
+    "make": "Toyota",
+    "model": "Corolla",
+    "fair_market_value": 20900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 474.17,
+    "monthly_delta_vs_current": 171.83,
+    "reliability_score": 95,
+    "tech_score": 81,
+    "deal_score": 39.5,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:33.264315"
   },
   {
     "id": "kijiji-1745603313",
@@ -3654,7 +3631,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359758"
+    "last_verified": "2026-11-20T00:48:33.264319"
   },
   {
     "id": "kijiji-1745603429",
@@ -3677,7 +3654,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359763"
+    "last_verified": "2026-11-20T00:48:33.264323"
   },
   {
     "id": "kijiji-1745560978",
@@ -3700,53 +3677,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359769"
-  },
-  {
-    "id": "kijiji-1746034257",
-    "title": "2023 Toyota Corolla LE| Camera de recul | Vitres electriques",
-    "year": 2023,
-    "price": 22344.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2023-toyota-corolla-le-camera-de-recul-vitres-electriques/1746034257",
-    "model_id": "toyota-corolla",
-    "make": "Toyota",
-    "model": "Corolla",
-    "fair_market_value": 20900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 479.98,
-    "monthly_delta_vs_current": 166.02,
-    "reliability_score": 95,
-    "tech_score": 81,
-    "deal_score": 39.5,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:51:53.359787"
-  },
-  {
-    "id": "kijiji-1745061836",
-    "title": "2022 Subaru Crosstrek Limited | Si\u00e8ges Chauff | Cuir | Toit Pano",
-    "year": 2022,
-    "price": 25835.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2022-subaru-crosstrek-limited-sieges-chauff-cuir-toit-pano/1745061836",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 561.93,
-    "monthly_delta_vs_current": 84.07,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190553"
+    "last_verified": "2026-11-20T00:48:33.264326"
   },
   {
     "id": "kijiji-1742575616",
@@ -3769,76 +3700,30 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190574"
+    "last_verified": "2026-11-20T00:48:50.877371"
   },
   {
-    "id": "kijiji-1743887479",
-    "title": "2024 Subaru Crosstrek Touring AWD / Apple CarPlay sans fil Tract",
-    "year": 2024,
-    "price": 27595.0,
+    "id": "kijiji-1745061836",
+    "title": "2022 Subaru Crosstrek Limited | Si\u00e8ges Chauff | Cuir | Toit Pano",
+    "year": 2022,
+    "price": 25835.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-awd-apple-carplay-sans-fil-tract/1743887479",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2022-subaru-crosstrek-limited-sieges-chauff-cuir-toit-pano/1745061836",
     "model_id": "subaru-crosstrek",
     "make": "Subaru",
     "model": "Crosstrek",
     "fair_market_value": 23900.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 595.66,
-    "monthly_delta_vs_current": 50.34,
+    "est_monthly_tco_qc": 561.93,
+    "monthly_delta_vs_current": 84.07,
     "reliability_score": 85,
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190582"
-  },
-  {
-    "id": "kijiji-1745575017",
-    "title": "2023 Subaru Crosstrek Outdoor | Si\u00e8ges Chauff | Cam\u00e9ra Recul | B",
-    "year": 2023,
-    "price": 25995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-subaru-crosstrek-outdoor-sieges-chauff-camera-recul-b/1745575017",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 565.0,
-    "monthly_delta_vs_current": 81.0,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190590"
-  },
-  {
-    "id": "kijiji-1743879196",
-    "title": "2024 Subaru Crosstrek Touring / Apple CarPlay sans fil Traction ",
-    "year": 2024,
-    "price": 26595.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-apple-carplay-sans-fil-traction/1743879196",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 576.49,
-    "monthly_delta_vs_current": 69.51,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190598"
+    "last_verified": "2026-11-20T00:48:50.877388"
   },
   {
     "id": "kijiji-1744351447",
@@ -3861,30 +3746,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190604"
-  },
-  {
-    "id": "kijiji-1742912236",
-    "title": "2024 Subaru Crosstrek Onyx | Carplay | Si\u00e8ges Chauff | Bluetooth",
-    "year": 2024,
-    "price": 26995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-onyx-carplay-sieges-chauff-bluetooth/1742912236",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 584.16,
-    "monthly_delta_vs_current": 61.84,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190611"
+    "last_verified": "2026-11-20T00:48:50.877394"
   },
   {
     "id": "kijiji-1746361925",
@@ -3907,145 +3769,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190617"
-  },
-  {
-    "id": "kijiji-1745039901",
-    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT ANDROID AUTO APPL",
-    "year": 2024,
-    "price": 26995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-android-auto-appl/1745039901",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 584.16,
-    "monthly_delta_vs_current": 61.84,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190624"
-  },
-  {
-    "id": "kijiji-1742724623",
-    "title": "2024 Subaru Crosstrek Onyx / Toit ouvrant / Mags 18'' Nouvel Arr",
-    "year": 2024,
-    "price": 27895.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-onyx-toit-ouvrant-mags-18-nouvel-arr/1742724623",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 601.41,
-    "monthly_delta_vs_current": 44.59,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190630"
-  },
-  {
-    "id": "kijiji-1744316548",
-    "title": "2024 Subaru Crosstrek Onyx / Toit ouvrant / Mags 18'' Jantes noi",
-    "year": 2024,
-    "price": 27995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-onyx-toit-ouvrant-mags-18-jantes-noi/1744316548",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 603.32,
-    "monthly_delta_vs_current": 42.68,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190643"
-  },
-  {
-    "id": "kijiji-1744294387",
-    "title": "2023 Subaru Crosstrek Touring Traction int\u00e9grale Subaru / Volant",
-    "year": 2023,
-    "price": 24535.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-subaru-crosstrek-touring-traction-integrale-subaru-volant/1744294387",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 537.02,
-    "monthly_delta_vs_current": 108.98,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190650"
-  },
-  {
-    "id": "kijiji-1744294219",
-    "title": "2024 Subaru Crosstrek Convenience / CarPlay / Si\u00e8ges chauffants ",
-    "year": 2024,
-    "price": 23975.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-convenience-carplay-sieges-chauffants/1744294219",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 526.5,
-    "monthly_delta_vs_current": 119.5,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190657"
-  },
-  {
-    "id": "kijiji-1742693008",
-    "title": "2024 Subaru Crosstrek Touring | Si\u00e8ges Chauff | Cam\u00e9ra | Carplay",
-    "year": 2024,
-    "price": 24995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-sieges-chauff-camera-carplay/1742693008",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 545.83,
-    "monthly_delta_vs_current": 100.17,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190663"
+    "last_verified": "2026-11-20T00:48:50.877398"
   },
   {
     "id": "kijiji-1744993967",
@@ -4068,99 +3792,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190669"
-  },
-  {
-    "id": "kijiji-1744902955",
-    "title": "2024 Subaru Crosstrek Touring AWD / Cruise / Mags Nouvel Arrivag",
-    "year": 2024,
-    "price": 26735.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-awd-cruise-mags-nouvel-arrivag/1744902955",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 579.18,
-    "monthly_delta_vs_current": 66.82,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190676"
-  },
-  {
-    "id": "kijiji-1743776119",
-    "title": "2024 Subaru Crosstrek Touring / Apple CarPlay / Volant chauffant",
-    "year": 2024,
-    "price": 26675.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-apple-carplay-volant-chauffant/1743776119",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 578.03,
-    "monthly_delta_vs_current": 67.97,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190682"
-  },
-  {
-    "id": "kijiji-1742968473",
-    "title": "2023 Subaru Crosstrek Sport | Si\u00e8ges Chauff | Cam | Toit ouvrant",
-    "year": 2023,
-    "price": 26395.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-subaru-crosstrek-sport-sieges-chauff-cam-toit-ouvrant/1742968473",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 572.66,
-    "monthly_delta_vs_current": 73.34,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190692"
-  },
-  {
-    "id": "kijiji-1745333439",
-    "title": "2024 Subaru Crosstrek Touring AWD / Cruise / Mags Nouvel Arrivag",
-    "year": 2024,
-    "price": 27895.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-awd-cruise-mags-nouvel-arrivag/1745333439",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 601.41,
-    "monthly_delta_vs_current": 44.59,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190698"
+    "last_verified": "2026-11-20T00:48:50.877402"
   },
   {
     "id": "kijiji-1746183602",
@@ -4183,145 +3815,30 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190704"
+    "last_verified": "2026-11-20T00:48:50.877407"
   },
   {
-    "id": "kijiji-1743456763",
-    "title": "2024 Subaru Crosstrek Onyx // 2.5L, Toit Ouvrant, Mags, Apple Ca",
-    "year": 2024,
-    "price": 26993.0,
+    "id": "kijiji-1744294387",
+    "title": "2023 Subaru Crosstrek Touring Traction int\u00e9grale Subaru / Volant",
+    "year": 2023,
+    "price": 24535.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-onyx-2-5l-toit-ouvrant-mags-apple-ca/1743456763",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-subaru-crosstrek-touring-traction-integrale-subaru-volant/1744294387",
     "model_id": "subaru-crosstrek",
     "make": "Subaru",
     "model": "Crosstrek",
     "fair_market_value": 23900.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 584.12,
-    "monthly_delta_vs_current": 61.88,
+    "est_monthly_tco_qc": 537.02,
+    "monthly_delta_vs_current": 108.98,
     "reliability_score": 85,
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190710"
-  },
-  {
-    "id": "kijiji-1746104759",
-    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT BLUETOOTH APPLE C",
-    "year": 2024,
-    "price": 26995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-bluetooth-apple-c/1746104759",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 584.16,
-    "monthly_delta_vs_current": 61.84,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190723"
-  },
-  {
-    "id": "kijiji-1744714166",
-    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT BLUETOOTH APPLE C",
-    "year": 2024,
-    "price": 27995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-bluetooth-apple-c/1744714166",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 603.32,
-    "monthly_delta_vs_current": 42.68,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190735"
-  },
-  {
-    "id": "kijiji-1746012106",
-    "title": "2024 Subaru Crosstrek Onyx // 2.5L, Toit Ouvrant, Mags, Apple Ca",
-    "year": 2024,
-    "price": 26993.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-onyx-2-5l-toit-ouvrant-mags-apple-ca/1746012106",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 584.12,
-    "monthly_delta_vs_current": 61.88,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190740"
-  },
-  {
-    "id": "kijiji-1746004126",
-    "title": "2024 Subaru Crosstrek Touring / EYESIGHT, CAM\u00c9RA DE RECUL,BANC C",
-    "year": 2024,
-    "price": 26493.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-eyesight-camera-de-recul-banc-c/1746004126",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 574.54,
-    "monthly_delta_vs_current": 71.46,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190747"
-  },
-  {
-    "id": "kijiji-1745998055",
-    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT BLUETOOTH CAMERA ",
-    "year": 2024,
-    "price": 27999.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-bluetooth-camera/1745998055",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 603.4,
-    "monthly_delta_vs_current": 42.6,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190753"
+    "last_verified": "2026-11-20T00:48:50.877412"
   },
   {
     "id": "kijiji-1745994774",
@@ -4344,7 +3861,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190759"
+    "last_verified": "2026-11-20T00:48:50.877416"
   },
   {
     "id": "kijiji-1745912287",
@@ -4367,99 +3884,214 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190764"
+    "last_verified": "2026-11-20T00:48:50.877426"
   },
   {
-    "id": "kijiji-1745827502",
-    "title": "2024 Subaru Crosstrek CONVENIENCE, CAM\u00c9RA RECUL, CARPLAY",
+    "id": "kijiji-1743776119",
+    "title": "2024 Subaru Crosstrek Touring / Apple CarPlay / Volant chauffant",
     "year": 2024,
-    "price": 24993.0,
+    "price": 26675.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-convenience-camera-recul-carplay/1745827502",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-apple-carplay-volant-chauffant/1743776119",
     "model_id": "subaru-crosstrek",
     "make": "Subaru",
     "model": "Crosstrek",
     "fair_market_value": 23900.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 545.8,
-    "monthly_delta_vs_current": 100.2,
+    "est_monthly_tco_qc": 578.03,
+    "monthly_delta_vs_current": 67.97,
     "reliability_score": 85,
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190770"
+    "last_verified": "2026-11-20T00:48:50.877430"
   },
   {
-    "id": "kijiji-1745779062",
-    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT BLUETOOTH AWD",
+    "id": "kijiji-1744294219",
+    "title": "2024 Subaru Crosstrek Convenience / CarPlay / Si\u00e8ges chauffants ",
     "year": 2024,
-    "price": 27495.0,
+    "price": 23975.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-bluetooth-awd/1745779062",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-convenience-carplay-sieges-chauffants/1744294219",
     "model_id": "subaru-crosstrek",
     "make": "Subaru",
     "model": "Crosstrek",
     "fair_market_value": 23900.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 593.74,
-    "monthly_delta_vs_current": 52.26,
+    "est_monthly_tco_qc": 526.5,
+    "monthly_delta_vs_current": 119.5,
     "reliability_score": 85,
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190776"
+    "last_verified": "2026-11-20T00:48:50.877436"
   },
   {
-    "id": "kijiji-1745753037",
-    "title": "2024 Subaru Crosstrek Onyx // 2.5L, Toit Ouvrant, Mags, Apple Ca",
+    "id": "kijiji-1743879196",
+    "title": "2024 Subaru Crosstrek Touring / Apple CarPlay sans fil Traction ",
     "year": 2024,
-    "price": 27993.0,
+    "price": 26595.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-onyx-2-5l-toit-ouvrant-mags-apple-ca/1745753037",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-apple-carplay-sans-fil-traction/1743879196",
     "model_id": "subaru-crosstrek",
     "make": "Subaru",
     "model": "Crosstrek",
     "fair_market_value": 23900.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 603.28,
-    "monthly_delta_vs_current": 42.72,
+    "est_monthly_tco_qc": 576.49,
+    "monthly_delta_vs_current": 69.51,
     "reliability_score": 85,
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190782"
+    "last_verified": "2026-11-20T00:48:50.877441"
   },
   {
-    "id": "kijiji-1745751820",
-    "title": "2024 Subaru Crosstrek Touring / EYESIGHT, CAM\u00c9RA DE RECUL,BANC C",
+    "id": "kijiji-1742912236",
+    "title": "2024 Subaru Crosstrek Onyx | Carplay | Si\u00e8ges Chauff | Bluetooth",
     "year": 2024,
-    "price": 27993.0,
+    "price": 26995.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-eyesight-camera-de-recul-banc-c/1745751820",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-onyx-carplay-sieges-chauff-bluetooth/1742912236",
     "model_id": "subaru-crosstrek",
     "make": "Subaru",
     "model": "Crosstrek",
     "fair_market_value": 23900.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 603.28,
-    "monthly_delta_vs_current": 42.72,
+    "est_monthly_tco_qc": 584.16,
+    "monthly_delta_vs_current": 61.84,
     "reliability_score": 85,
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:13.190788"
+    "last_verified": "2026-11-20T00:48:50.877447"
+  },
+  {
+    "id": "kijiji-1742693008",
+    "title": "2024 Subaru Crosstrek Touring | Si\u00e8ges Chauff | Cam\u00e9ra | Carplay",
+    "year": 2024,
+    "price": 24995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-sieges-chauff-camera-carplay/1742693008",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 545.83,
+    "monthly_delta_vs_current": 100.17,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877451"
+  },
+  {
+    "id": "kijiji-1744902955",
+    "title": "2024 Subaru Crosstrek Touring AWD / Cruise / Mags Nouvel Arrivag",
+    "year": 2024,
+    "price": 26735.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-awd-cruise-mags-nouvel-arrivag/1744902955",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 579.18,
+    "monthly_delta_vs_current": 66.82,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877456"
+  },
+  {
+    "id": "kijiji-1745575017",
+    "title": "2023 Subaru Crosstrek Outdoor | Si\u00e8ges Chauff | Cam\u00e9ra Recul | B",
+    "year": 2023,
+    "price": 25995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-subaru-crosstrek-outdoor-sieges-chauff-camera-recul-b/1745575017",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 565.0,
+    "monthly_delta_vs_current": 81.0,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877465"
+  },
+  {
+    "id": "kijiji-1742968473",
+    "title": "2023 Subaru Crosstrek Sport | Si\u00e8ges Chauff | Cam | Toit ouvrant",
+    "year": 2023,
+    "price": 26395.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-subaru-crosstrek-sport-sieges-chauff-cam-toit-ouvrant/1742968473",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 572.66,
+    "monthly_delta_vs_current": 73.34,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877469"
+  },
+  {
+    "id": "kijiji-1743887479",
+    "title": "2024 Subaru Crosstrek Touring AWD / Apple CarPlay sans fil Tract",
+    "year": 2024,
+    "price": 27595.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-awd-apple-carplay-sans-fil-tract/1743887479",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 595.66,
+    "monthly_delta_vs_current": 50.34,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877474"
   },
   {
     "id": "kijiji-1745603350",
@@ -4482,7 +4114,99 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T12:59:54.312701"
+    "last_verified": "2026-11-20T00:48:50.877480"
+  },
+  {
+    "id": "kijiji-1745039901",
+    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT ANDROID AUTO APPL",
+    "year": 2024,
+    "price": 25555.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-android-auto-appl/1745039901",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 556.57,
+    "monthly_delta_vs_current": 89.43,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877484"
+  },
+  {
+    "id": "kijiji-1744316548",
+    "title": "2024 Subaru Crosstrek Onyx / Toit ouvrant / Mags 18'' Jantes noi",
+    "year": 2024,
+    "price": 27995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-onyx-toit-ouvrant-mags-18-jantes-noi/1744316548",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 603.32,
+    "monthly_delta_vs_current": 42.68,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877488"
+  },
+  {
+    "id": "kijiji-1745333439",
+    "title": "2024 Subaru Crosstrek Touring AWD / Cruise / Mags Nouvel Arrivag",
+    "year": 2024,
+    "price": 27895.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-touring-awd-cruise-mags-nouvel-arrivag/1745333439",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 601.41,
+    "monthly_delta_vs_current": 44.59,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877492"
+  },
+  {
+    "id": "kijiji-1742724623",
+    "title": "2024 Subaru Crosstrek Onyx / Toit ouvrant / Mags 18'' Nouvel Arr",
+    "year": 2024,
+    "price": 27895.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-subaru-crosstrek-onyx-toit-ouvrant-mags-18-nouvel-arr/1742724623",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 601.41,
+    "monthly_delta_vs_current": 44.59,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877496"
   },
   {
     "id": "kijiji-1745429956",
@@ -4505,7 +4229,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T12:59:54.312735"
+    "last_verified": "2026-11-20T00:48:50.877504"
   },
   {
     "id": "kijiji-1745430027",
@@ -4528,13 +4252,13 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T12:59:54.312743"
+    "last_verified": "2026-11-20T00:48:50.877508"
   },
   {
     "id": "kijiji-1745429954",
     "title": "2021 Subaru Crosstrek Limited",
     "year": 2021,
-    "price": 27990.0,
+    "price": 27590.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
@@ -4545,13 +4269,13 @@
     "fair_market_value": 23900.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 603.23,
-    "monthly_delta_vs_current": 42.77,
+    "est_monthly_tco_qc": 595.56,
+    "monthly_delta_vs_current": 50.44,
     "reliability_score": 85,
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T12:59:54.312747"
+    "last_verified": "2026-11-20T00:48:50.877538"
   },
   {
     "id": "kijiji-1745385049",
@@ -4574,7 +4298,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T12:59:54.312751"
+    "last_verified": "2026-11-20T00:48:50.877544"
   },
   {
     "id": "kijiji-1745384841",
@@ -4597,7 +4321,99 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T12:59:54.312755"
+    "last_verified": "2026-11-20T00:48:50.877549"
+  },
+  {
+    "id": "kijiji-1745998055",
+    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT BLUETOOTH CAMERA ",
+    "year": 2024,
+    "price": 27999.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-bluetooth-camera/1745998055",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 603.4,
+    "monthly_delta_vs_current": 42.6,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877555"
+  },
+  {
+    "id": "kijiji-1746104759",
+    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT BLUETOOTH APPLE C",
+    "year": 2024,
+    "price": 26995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-bluetooth-apple-c/1746104759",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 584.16,
+    "monthly_delta_vs_current": 61.84,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877561"
+  },
+  {
+    "id": "kijiji-1745827502",
+    "title": "2024 Subaru Crosstrek CONVENIENCE, CAM\u00c9RA RECUL, CARPLAY",
+    "year": 2024,
+    "price": 24993.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-convenience-camera-recul-carplay/1745827502",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 545.8,
+    "monthly_delta_vs_current": 100.2,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877566"
+  },
+  {
+    "id": "kijiji-1744714166",
+    "title": "2024 Subaru Crosstrek Touring SIEGES CHAUFFANT BLUETOOTH APPLE C",
+    "year": 2024,
+    "price": 27995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2024-subaru-crosstrek-touring-sieges-chauffant-bluetooth-apple-c/1744714166",
+    "model_id": "subaru-crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "fair_market_value": 23900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 603.32,
+    "monthly_delta_vs_current": 42.68,
+    "reliability_score": 85,
+    "tech_score": 83,
+    "deal_score": 39.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:50.877571"
   },
   {
     "id": "kijiji-1740470121",
@@ -4620,7 +4436,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445844"
+    "last_verified": "2026-11-20T00:48:42.758360"
   },
   {
     "id": "kijiji-1744120995",
@@ -4643,30 +4459,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445865"
-  },
-  {
-    "id": "kijiji-1746272103",
-    "title": "2022 Honda Civic Touring",
-    "year": 2022,
-    "price": 23500.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ouest-de-lile-qc/2022-honda-civic-touring/1746272103",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 496.45,
-    "monthly_delta_vs_current": 149.55,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445874"
+    "last_verified": "2026-11-20T00:48:42.758377"
   },
   {
     "id": "kijiji-1742982151",
@@ -4689,7 +4482,30 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445881"
+    "last_verified": "2026-11-20T00:48:42.758383"
+  },
+  {
+    "id": "kijiji-1746272103",
+    "title": "2022 Honda Civic Touring",
+    "year": 2022,
+    "price": 23500.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ouest-de-lile-qc/2022-honda-civic-touring/1746272103",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 496.45,
+    "monthly_delta_vs_current": 149.55,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-20T00:48:42.758388"
   },
   {
     "id": "kijiji-1746405000",
@@ -4712,7 +4528,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445887"
+    "last_verified": "2026-11-20T00:48:42.758392"
   },
   {
     "id": "kijiji-1746404991",
@@ -4735,7 +4551,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445893"
+    "last_verified": "2026-11-20T00:48:42.758397"
   },
   {
     "id": "kijiji-1745080331",
@@ -4758,7 +4574,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445899"
+    "last_verified": "2026-11-20T00:48:42.758405"
   },
   {
     "id": "kijiji-1746388146",
@@ -4781,7 +4597,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445931"
+    "last_verified": "2026-11-20T00:48:42.758424"
   },
   {
     "id": "kijiji-1744994013",
@@ -4804,7 +4620,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445942"
+    "last_verified": "2026-11-20T00:48:42.758433"
   },
   {
     "id": "kijiji-1746315583",
@@ -4827,7 +4643,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445948"
+    "last_verified": "2026-11-20T00:48:42.758438"
   },
   {
     "id": "kijiji-1746272284",
@@ -4850,7 +4666,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445954"
+    "last_verified": "2026-11-20T00:48:42.758442"
   },
   {
     "id": "kijiji-1742982282",
@@ -4873,7 +4689,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445969"
+    "last_verified": "2026-11-20T00:48:42.758451"
   },
   {
     "id": "kijiji-1746228614",
@@ -4896,7 +4712,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445982"
+    "last_verified": "2026-11-20T00:48:42.758461"
   },
   {
     "id": "kijiji-1744901149",
@@ -4919,7 +4735,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.445998"
+    "last_verified": "2026-11-20T00:48:42.758474"
   },
   {
     "id": "kijiji-1746136917",
@@ -4942,7 +4758,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446031"
+    "last_verified": "2026-11-20T00:48:42.758497"
   },
   {
     "id": "kijiji-1746136709",
@@ -4965,7 +4781,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446036"
+    "last_verified": "2026-11-20T00:48:42.758502"
   },
   {
     "id": "kijiji-1746046366",
@@ -4988,7 +4804,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446054"
+    "last_verified": "2026-11-20T00:48:42.758539"
   },
   {
     "id": "kijiji-1746026934",
@@ -5011,7 +4827,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446071"
+    "last_verified": "2026-11-20T00:48:42.758553"
   },
   {
     "id": "kijiji-1745999580",
@@ -5034,7 +4850,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446076"
+    "last_verified": "2026-11-20T00:48:42.758558"
   },
   {
     "id": "kijiji-1745999703",
@@ -5057,7 +4873,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446082"
+    "last_verified": "2026-11-20T00:48:42.758561"
   },
   {
     "id": "kijiji-1745999804",
@@ -5080,7 +4896,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446087"
+    "last_verified": "2026-11-20T00:48:42.758566"
   },
   {
     "id": "kijiji-1746136632",
@@ -5103,7 +4919,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446114"
+    "last_verified": "2026-11-20T00:48:42.758570"
   },
   {
     "id": "kijiji-1746142114",
@@ -5126,30 +4942,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:04.446121"
-  },
-  {
-    "id": "kijiji-1746026895",
-    "title": "2023 Honda Civic Sedan Carplay, Bluetooth, Cam\u00e9ra, Phares \u00e0 DEL,",
-    "year": 2023,
-    "price": 24489.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-honda-civic-sedan-carplay-bluetooth-camera-phares-a-del/1746026895",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 514.0,
-    "monthly_delta_vs_current": 132.0,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-19T12:59:45.236492"
+    "last_verified": "2026-11-20T00:48:42.758574"
   },
   {
     "id": "kijiji-1745688678",
@@ -5172,7 +4965,7 @@
     "tech_score": 89,
     "deal_score": 38.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:00.250688"
+    "last_verified": "2026-11-20T00:48:39.439267"
   },
   {
     "id": "1743666984",
@@ -5195,7 +4988,7 @@
     "tech_score": 89,
     "deal_score": 38.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:00.250708"
+    "last_verified": "2026-11-20T00:48:39.439284"
   },
   {
     "id": "kijiji-1745912375",
@@ -5218,6 +5011,6 @@
     "tech_score": 90,
     "deal_score": 38.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-19T18:52:16.044782"
+    "last_verified": "2026-11-20T00:48:53.385262"
   }
 ]
