@@ -20,53 +20,7 @@
     "tech_score": 86,
     "deal_score": 95.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521660"
-  },
-  {
-    "id": "kijiji-1746079348",
-    "title": "Toyota RAV4 LE TI 2018 \u00e0 vendre",
-    "year": 2018,
-    "price": 22995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/toyota-rav4-le-ti-2018-a-vendre/1746079348",
-    "model_id": "toyota-rav4-hybrid",
-    "make": "Toyota",
-    "model": "RAV4",
-    "fair_market_value": 31200.0,
-    "discount_cad": 8205.0,
-    "discount_pct": 26.3,
-    "est_monthly_tco_qc": 359.42,
-    "monthly_delta_vs_current": 286.58,
-    "reliability_score": 94,
-    "tech_score": 86,
-    "deal_score": 95.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521697"
-  },
-  {
-    "id": "kijiji-1745718316",
-    "title": "Toyota RAV4 LE TI 2018 \u00e0 vendre",
-    "year": 2018,
-    "price": 21995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/toyota-rav4-le-ti-2018-a-vendre/1745718316",
-    "model_id": "toyota-rav4-hybrid",
-    "make": "Toyota",
-    "model": "RAV4",
-    "fair_market_value": 31200.0,
-    "discount_cad": 9205.0,
-    "discount_pct": 29.5,
-    "est_monthly_tco_qc": 342.75,
-    "monthly_delta_vs_current": 303.25,
-    "reliability_score": 94,
-    "tech_score": 86,
-    "deal_score": 95.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521708"
+    "last_verified": "2026-11-25T00:56:33.017500"
   },
   {
     "id": "kijiji-1746428431",
@@ -89,7 +43,53 @@
     "tech_score": 86,
     "deal_score": 95.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521729"
+    "last_verified": "2026-11-25T00:56:33.017518"
+  },
+  {
+    "id": "kijiji-1746079348",
+    "title": "Toyota RAV4 LE TI 2018 \u00e0 vendre",
+    "year": 2018,
+    "price": 22995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/toyota-rav4-le-ti-2018-a-vendre/1746079348",
+    "model_id": "toyota-rav4-hybrid",
+    "make": "Toyota",
+    "model": "RAV4",
+    "fair_market_value": 31200.0,
+    "discount_cad": 8205.0,
+    "discount_pct": 26.3,
+    "est_monthly_tco_qc": 359.42,
+    "monthly_delta_vs_current": 286.58,
+    "reliability_score": 94,
+    "tech_score": 86,
+    "deal_score": 95.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:33.017525"
+  },
+  {
+    "id": "kijiji-1745718316",
+    "title": "Toyota RAV4 LE TI 2018 \u00e0 vendre",
+    "year": 2018,
+    "price": 21995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/toyota-rav4-le-ti-2018-a-vendre/1745718316",
+    "model_id": "toyota-rav4-hybrid",
+    "make": "Toyota",
+    "model": "RAV4",
+    "fair_market_value": 31200.0,
+    "discount_cad": 9205.0,
+    "discount_pct": 29.5,
+    "est_monthly_tco_qc": 342.75,
+    "monthly_delta_vs_current": 303.25,
+    "reliability_score": 94,
+    "tech_score": 86,
+    "deal_score": 95.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:33.017533"
   },
   {
     "id": "kijiji-1744299476",
@@ -112,7 +112,7 @@
     "tech_score": 86,
     "deal_score": 95.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521738"
+    "last_verified": "2026-11-25T00:56:33.017576"
   },
   {
     "id": "kijiji-1744220088",
@@ -135,7 +135,7 @@
     "tech_score": 85,
     "deal_score": 95.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:42.719592"
+    "last_verified": "2026-11-25T00:56:30.719330"
   },
   {
     "id": "kijiji-1730111374",
@@ -158,7 +158,7 @@
     "tech_score": 85,
     "deal_score": 95.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:42.719602"
+    "last_verified": "2026-11-25T00:56:30.719350"
   },
   {
     "id": "kijiji-1745537294",
@@ -181,7 +181,7 @@
     "tech_score": 83,
     "deal_score": 94.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947844"
+    "last_verified": "2026-11-25T00:56:20.859236"
   },
   {
     "id": "kijiji-1745807916",
@@ -204,7 +204,7 @@
     "tech_score": 83,
     "deal_score": 94.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947877"
+    "last_verified": "2026-11-25T00:56:20.859283"
   },
   {
     "id": "kijiji-1746346235",
@@ -227,7 +227,7 @@
     "tech_score": 86,
     "deal_score": 94.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660587"
+    "last_verified": "2026-11-25T00:56:10.116678"
   },
   {
     "id": "kijiji-1746250180",
@@ -250,7 +250,7 @@
     "tech_score": 86,
     "deal_score": 94.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660604"
+    "last_verified": "2026-11-25T00:56:10.116702"
   },
   {
     "id": "kijiji-1739348207",
@@ -273,7 +273,7 @@
     "tech_score": 86,
     "deal_score": 94.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660608"
+    "last_verified": "2026-11-25T00:56:10.116709"
   },
   {
     "id": "kijiji-1745901423",
@@ -296,7 +296,7 @@
     "tech_score": 86,
     "deal_score": 94.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660633"
+    "last_verified": "2026-11-25T00:56:10.116752"
   },
   {
     "id": "kijiji-1746397759",
@@ -319,7 +319,7 @@
     "tech_score": 81,
     "deal_score": 94.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692021"
+    "last_verified": "2026-11-25T00:56:07.312023"
   },
   {
     "id": "kijiji-1743134194",
@@ -342,7 +342,7 @@
     "tech_score": 81,
     "deal_score": 94.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692115"
+    "last_verified": "2026-11-25T00:56:07.312156"
   },
   {
     "id": "1746371867",
@@ -365,7 +365,30 @@
     "tech_score": 96,
     "deal_score": 94.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:48.970619"
+    "last_verified": "2026-11-25T00:56:35.437629"
+  },
+  {
+    "id": "kijiji-1745257880",
+    "title": "2017 Honda Civic LX 6MT - bas kilom\u00e9trage / low mileage",
+    "year": 2021,
+    "price": 14995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ouest-de-lile-qc/2017-honda-civic-lx-6mt-bas-kilometrage-low-mileage/1745257880",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 7405.0,
+    "discount_pct": 33.1,
+    "est_monthly_tco_qc": 354.7,
+    "monthly_delta_vs_current": 291.3,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 93.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869690"
   },
   {
     "id": "kijiji-1745848243",
@@ -388,7 +411,30 @@
     "tech_score": 85,
     "deal_score": 93.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510397"
+    "last_verified": "2026-11-25T00:56:16.869745"
+  },
+  {
+    "id": "1746575245",
+    "title": "2018 Honda Civic LX 4D",
+    "year": 2018,
+    "price": 17500.0,
+    "km": 44423,
+    "location": "Gatineau / Outaouais, QC",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2018-honda-civic-lx-4d/1746575245",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 4900.0,
+    "discount_pct": 21.9,
+    "est_monthly_tco_qc": 396.45,
+    "monthly_delta_vs_current": 249.55,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 93.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869946"
   },
   {
     "id": "kijiji-1745384963",
@@ -411,7 +457,7 @@
     "tech_score": 86,
     "deal_score": 85.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521747"
+    "last_verified": "2026-11-25T00:56:33.017608"
   },
   {
     "id": "1746303047",
@@ -434,7 +480,7 @@
     "tech_score": 83,
     "deal_score": 85.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450365"
+    "last_verified": "2026-11-25T00:56:25.829620"
   },
   {
     "id": "kijiji-1745517130",
@@ -457,7 +503,7 @@
     "tech_score": 83,
     "deal_score": 83.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947872"
+    "last_verified": "2026-11-25T00:56:20.859276"
   },
   {
     "id": "kijiji-1746136631",
@@ -480,7 +526,7 @@
     "tech_score": 86,
     "deal_score": 83.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521678"
+    "last_verified": "2026-11-25T00:56:33.017543"
   },
   {
     "id": "kijiji-1745999786",
@@ -503,7 +549,7 @@
     "tech_score": 86,
     "deal_score": 83.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521684"
+    "last_verified": "2026-11-25T00:56:33.017555"
   },
   {
     "id": "kijiji-1745517170",
@@ -526,7 +572,7 @@
     "tech_score": 86,
     "deal_score": 83.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521755"
+    "last_verified": "2026-11-25T00:56:33.017588"
   },
   {
     "id": "kijiji-1746137140",
@@ -549,7 +595,7 @@
     "tech_score": 85,
     "deal_score": 82.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510424"
+    "last_verified": "2026-11-25T00:56:16.869887"
   },
   {
     "id": "kijiji-1746046316",
@@ -572,7 +618,7 @@
     "tech_score": 85,
     "deal_score": 82.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510450"
+    "last_verified": "2026-11-25T00:56:16.869926"
   },
   {
     "id": "kijiji-1746620232",
@@ -595,7 +641,7 @@
     "tech_score": 86,
     "deal_score": 81.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660622"
+    "last_verified": "2026-11-25T00:56:10.116738"
   },
   {
     "id": "kijiji-1745533479",
@@ -618,7 +664,7 @@
     "tech_score": 85,
     "deal_score": 80.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:42.719586"
+    "last_verified": "2026-11-25T00:56:30.719322"
   },
   {
     "id": "kijiji-1745912308",
@@ -641,7 +687,7 @@
     "tech_score": 85,
     "deal_score": 80.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:42.719598"
+    "last_verified": "2026-11-25T00:56:30.719342"
   },
   {
     "id": "kijiji-1745811693",
@@ -664,7 +710,7 @@
     "tech_score": 83,
     "deal_score": 79.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947731"
+    "last_verified": "2026-11-25T00:56:20.859112"
   },
   {
     "id": "kijiji-1745912377",
@@ -687,7 +733,7 @@
     "tech_score": 86,
     "deal_score": 79.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521702"
+    "last_verified": "2026-11-25T00:56:33.017563"
   },
   {
     "id": "kijiji-1745385040",
@@ -710,7 +756,7 @@
     "tech_score": 86,
     "deal_score": 79.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521742"
+    "last_verified": "2026-11-25T00:56:33.017602"
   },
   {
     "id": "kijiji-1745943973",
@@ -733,7 +779,7 @@
     "tech_score": 86,
     "deal_score": 76.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521714"
+    "last_verified": "2026-11-25T00:56:33.017483"
   },
   {
     "id": "kijiji-1744210304",
@@ -756,7 +802,7 @@
     "tech_score": 83,
     "deal_score": 75.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947863"
+    "last_verified": "2026-11-25T00:56:20.859264"
   },
   {
     "id": "kijiji-1745674035",
@@ -779,7 +825,7 @@
     "tech_score": 86,
     "deal_score": 73.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660549"
+    "last_verified": "2026-11-25T00:56:10.116628"
   },
   {
     "id": "kijiji-1746313730",
@@ -802,7 +848,7 @@
     "tech_score": 84,
     "deal_score": 71.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:32.971018"
+    "last_verified": "2026-11-25T00:56:23.176245"
   },
   {
     "id": "kijiji-1745670926",
@@ -825,7 +871,7 @@
     "tech_score": 86,
     "deal_score": 71.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660494"
+    "last_verified": "2026-11-25T00:56:10.116582"
   },
   {
     "id": "kijiji-1746272245",
@@ -848,7 +894,7 @@
     "tech_score": 81,
     "deal_score": 71.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692046"
+    "last_verified": "2026-11-25T00:56:07.312053"
   },
   {
     "id": "kijiji-1743891079",
@@ -871,7 +917,7 @@
     "tech_score": 85,
     "deal_score": 70.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510347"
+    "last_verified": "2026-11-25T00:56:16.869697"
   },
   {
     "id": "kijiji-1746228478",
@@ -894,7 +940,7 @@
     "tech_score": 85,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:42.719580"
+    "last_verified": "2026-11-25T00:56:30.719313"
   },
   {
     "id": "kijiji-1745196349",
@@ -917,7 +963,7 @@
     "tech_score": 86,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521691"
+    "last_verified": "2026-11-25T00:56:33.017510"
   },
   {
     "id": "kijiji-1745868395",
@@ -940,30 +986,7 @@
     "tech_score": 86,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521723"
-  },
-  {
-    "id": "kijiji-1745473887",
-    "title": "2021 Toyota RAV4 LE",
-    "year": 2021,
-    "price": 27990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-toyota-rav4-le/1745473887",
-    "model_id": "toyota-rav4-hybrid",
-    "make": "Toyota",
-    "model": "RAV4",
-    "fair_market_value": 31200.0,
-    "discount_cad": 3210.0,
-    "discount_pct": 10.3,
-    "est_monthly_tco_qc": 452.47,
-    "monthly_delta_vs_current": 193.53,
-    "reliability_score": 94,
-    "tech_score": 86,
-    "deal_score": 70.3,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521733"
+    "last_verified": "2026-11-25T00:56:33.017569"
   },
   {
     "id": "kijiji-1745560879",
@@ -986,7 +1009,30 @@
     "tech_score": 86,
     "deal_score": 70.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:46.521751"
+    "last_verified": "2026-11-25T00:56:33.017582"
+  },
+  {
+    "id": "kijiji-1745473887",
+    "title": "2021 Toyota RAV4 LE",
+    "year": 2021,
+    "price": 27990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-toyota-rav4-le/1745473887",
+    "model_id": "toyota-rav4-hybrid",
+    "make": "Toyota",
+    "model": "RAV4",
+    "fair_market_value": 31200.0,
+    "discount_cad": 3210.0,
+    "discount_pct": 10.3,
+    "est_monthly_tco_qc": 452.47,
+    "monthly_delta_vs_current": 193.53,
+    "reliability_score": 94,
+    "tech_score": 86,
+    "deal_score": 70.3,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:33.017595"
   },
   {
     "id": "kijiji-1745603393",
@@ -1009,7 +1055,7 @@
     "tech_score": 83,
     "deal_score": 68.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947859"
+    "last_verified": "2026-11-25T00:56:20.859258"
   },
   {
     "id": "1745912384",
@@ -1032,7 +1078,7 @@
     "tech_score": 83,
     "deal_score": 68.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947937"
+    "last_verified": "2026-11-25T00:56:20.859366"
   },
   {
     "id": "kijiji-1745287432",
@@ -1055,7 +1101,7 @@
     "tech_score": 86,
     "deal_score": 68.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660509"
+    "last_verified": "2026-11-25T00:56:10.116598"
   },
   {
     "id": "kijiji-1746228595",
@@ -1078,7 +1124,7 @@
     "tech_score": 85,
     "deal_score": 65.6,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510437"
+    "last_verified": "2026-11-25T00:56:16.869865"
   },
   {
     "id": "1746136597",
@@ -1101,7 +1147,7 @@
     "tech_score": 85,
     "deal_score": 63.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:42.719612"
+    "last_verified": "2026-11-25T00:56:30.719363"
   },
   {
     "id": "kijiji-1743898641",
@@ -1124,7 +1170,7 @@
     "tech_score": 83,
     "deal_score": 61.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450233"
+    "last_verified": "2026-11-25T00:56:25.829438"
   },
   {
     "id": "kijiji-1746361850",
@@ -1147,7 +1193,7 @@
     "tech_score": 83,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947802"
+    "last_verified": "2026-11-25T00:56:20.859178"
   },
   {
     "id": "kijiji-1745543217",
@@ -1170,7 +1216,7 @@
     "tech_score": 83,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947868"
+    "last_verified": "2026-11-25T00:56:20.859270"
   },
   {
     "id": "kijiji-1745393595",
@@ -1193,7 +1239,7 @@
     "tech_score": 83,
     "deal_score": 60.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947895"
+    "last_verified": "2026-11-25T00:56:20.859309"
   },
   {
     "id": "kijiji-1745703283",
@@ -1216,7 +1262,7 @@
     "tech_score": 86,
     "deal_score": 60.4,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660628"
+    "last_verified": "2026-11-25T00:56:10.116724"
   },
   {
     "id": "kijiji-1724405635",
@@ -1239,7 +1285,7 @@
     "tech_score": 90,
     "deal_score": 59.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:39.568733"
+    "last_verified": "2026-11-25T00:56:28.298352"
   },
   {
     "id": "kijiji-1745761355",
@@ -1262,7 +1308,30 @@
     "tech_score": 84,
     "deal_score": 58.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:32.971041"
+    "last_verified": "2026-11-25T00:56:23.176269"
+  },
+  {
+    "id": "kijiji-1746145319",
+    "title": "2021 Honda Civic LX Sedan CVT \u2013 Only 46,000 km",
+    "year": 2021,
+    "price": 20900.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-honda-civic-lx-sedan-cvt-only-46-000-km/1746145319",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 1500.0,
+    "discount_pct": 6.7,
+    "est_monthly_tco_qc": 453.12,
+    "monthly_delta_vs_current": 192.88,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 57.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869874"
   },
   {
     "id": "kijiji-1744117721",
@@ -1285,7 +1354,7 @@
     "tech_score": 83,
     "deal_score": 55.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947882"
+    "last_verified": "2026-11-25T00:56:20.859289"
   },
   {
     "id": "kijiji-1742610692",
@@ -1308,7 +1377,7 @@
     "tech_score": 83,
     "deal_score": 55.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947900"
+    "last_verified": "2026-11-25T00:56:20.859315"
   },
   {
     "id": "kijiji-1745143590",
@@ -1331,7 +1400,7 @@
     "tech_score": 90,
     "deal_score": 54.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:39.568745"
+    "last_verified": "2026-11-25T00:56:28.298327"
   },
   {
     "id": "kijiji-1746183418",
@@ -1354,7 +1423,7 @@
     "tech_score": 90,
     "deal_score": 53.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:39.568727"
+    "last_verified": "2026-11-25T00:56:28.298337"
   },
   {
     "id": "kijiji-1745152592",
@@ -1377,7 +1446,7 @@
     "tech_score": 84,
     "deal_score": 52.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:32.971035"
+    "last_verified": "2026-11-25T00:56:23.176260"
   },
   {
     "id": "kijiji-1746315642",
@@ -1400,7 +1469,7 @@
     "tech_score": 81,
     "deal_score": 52.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692041"
+    "last_verified": "2026-11-25T00:56:07.312046"
   },
   {
     "id": "kijiji-1746620899",
@@ -1423,53 +1492,7 @@
     "tech_score": 81,
     "deal_score": 51.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.691984"
-  },
-  {
-    "id": "kijiji-1745868372",
-    "title": "2019 Mazda Mazda3 GT",
-    "year": 2019,
-    "price": 21290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2019-mazda-mazda3-gt/1745868372",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 910.0,
-    "discount_pct": 4.1,
-    "est_monthly_tco_qc": 488.79,
-    "monthly_delta_vs_current": 157.21,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 51.5,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660651"
-  },
-  {
-    "id": "kijiji-1746404920",
-    "title": "2021 Honda Civic EX",
-    "year": 2021,
-    "price": 21590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-honda-civic-ex/1746404920",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 810.0,
-    "discount_pct": 3.6,
-    "est_monthly_tco_qc": 464.62,
-    "monthly_delta_vs_current": 181.38,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 49.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510371"
+    "last_verified": "2026-11-25T00:56:07.311975"
   },
   {
     "id": "kijiji-1746405051",
@@ -1492,7 +1515,30 @@
     "tech_score": 85,
     "deal_score": 49.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510379"
+    "last_verified": "2026-11-25T00:56:16.869770"
+  },
+  {
+    "id": "kijiji-1746404920",
+    "title": "2021 Honda Civic EX",
+    "year": 2021,
+    "price": 21590.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-honda-civic-ex/1746404920",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 810.0,
+    "discount_pct": 3.6,
+    "est_monthly_tco_qc": 464.62,
+    "monthly_delta_vs_current": 181.38,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 49.0,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869818"
   },
   {
     "id": "kijiji-1744895403",
@@ -1515,7 +1561,7 @@
     "tech_score": 83,
     "deal_score": 49.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947824"
+    "last_verified": "2026-11-25T00:56:20.859207"
   },
   {
     "id": "kijiji-1746183349",
@@ -1538,7 +1584,7 @@
     "tech_score": 86,
     "deal_score": 47.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660612"
+    "last_verified": "2026-11-25T00:56:10.116716"
   },
   {
     "id": "kijiji-1746490187",
@@ -1561,7 +1607,7 @@
     "tech_score": 83,
     "deal_score": 46.4,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450205"
+    "last_verified": "2026-11-25T00:56:25.829402"
   },
   {
     "id": "kijiji-1746404982",
@@ -1584,7 +1630,7 @@
     "tech_score": 81,
     "deal_score": 43.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692010"
+    "last_verified": "2026-11-25T00:56:07.312010"
   },
   {
     "id": "kijiji-1745912373",
@@ -1607,7 +1653,7 @@
     "tech_score": 81,
     "deal_score": 43.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692091"
+    "last_verified": "2026-11-25T00:56:07.312125"
   },
   {
     "id": "kijiji-1745645969",
@@ -1630,7 +1676,7 @@
     "tech_score": 81,
     "deal_score": 43.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692136"
+    "last_verified": "2026-11-25T00:56:07.312181"
   },
   {
     "id": "kijiji-1746046323",
@@ -1653,7 +1699,7 @@
     "tech_score": 86,
     "deal_score": 42.4,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660617"
+    "last_verified": "2026-11-25T00:56:10.116730"
   },
   {
     "id": "kijiji-1746228524",
@@ -1676,7 +1722,7 @@
     "tech_score": 83,
     "deal_score": 42.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947797"
+    "last_verified": "2026-11-25T00:56:20.859171"
   },
   {
     "id": "kijiji-1726226127",
@@ -1699,7 +1745,7 @@
     "tech_score": 84,
     "deal_score": 40.3,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:32.971048"
+    "last_verified": "2026-11-25T00:56:23.176278"
   },
   {
     "id": "kijiji-1746620212",
@@ -1722,7 +1768,7 @@
     "tech_score": 85,
     "deal_score": 40.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:42.719563"
+    "last_verified": "2026-11-25T00:56:30.719297"
   },
   {
     "id": "kijiji-1745429953",
@@ -1745,53 +1791,7 @@
     "tech_score": 85,
     "deal_score": 40.2,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:42.719607"
-  },
-  {
-    "id": "kijiji-1743805414",
-    "title": "2022 Mazda CX-30 GS AWD | No Accidents | Leather Seats",
-    "year": 2022,
-    "price": 27395.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/hamilton/2022-mazda-cx-30-gs-awd-no-accidents-leather-seats/1743805414",
-    "model_id": "mazda-cx5",
-    "make": "Mazda",
-    "model": "CX-5",
-    "fair_market_value": 24800.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 601.32,
-    "monthly_delta_vs_current": 44.68,
-    "reliability_score": 91,
-    "tech_score": 83,
-    "deal_score": 39.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947749"
-  },
-  {
-    "id": "kijiji-1744491105",
-    "title": "2022 Mazda CX-30 GT | mags | bluetooth",
-    "year": 2022,
-    "price": 24844.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2022-mazda-cx-30-gt-mags-bluetooth/1744491105",
-    "model_id": "mazda-cx5",
-    "make": "Mazda",
-    "model": "CX-5",
-    "fair_market_value": 24800.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 552.44,
-    "monthly_delta_vs_current": 93.56,
-    "reliability_score": 91,
-    "tech_score": 83,
-    "deal_score": 39.9,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947755"
+    "last_verified": "2026-11-25T00:56:30.719357"
   },
   {
     "id": "kijiji-1745113876",
@@ -1814,7 +1814,53 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947761"
+    "last_verified": "2026-11-25T00:56:20.859087"
+  },
+  {
+    "id": "kijiji-1744623716",
+    "title": "2023 Mazda CX-30 GS | Luxury Package | Leather | HTD Wheel",
+    "year": 2023,
+    "price": 26421.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/mississauga-peel-region/2023-mazda-cx-30-gs-luxury-package-leather-htd-wheel/1744623716",
+    "model_id": "mazda-cx5",
+    "make": "Mazda",
+    "model": "CX-5",
+    "fair_market_value": 24800.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 582.65,
+    "monthly_delta_vs_current": 63.35,
+    "reliability_score": 91,
+    "tech_score": 83,
+    "deal_score": 39.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:20.859103"
+  },
+  {
+    "id": "kijiji-1744491105",
+    "title": "2022 Mazda CX-30 GT | mags | bluetooth",
+    "year": 2022,
+    "price": 24844.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2022-mazda-cx-30-gt-mags-bluetooth/1744491105",
+    "model_id": "mazda-cx5",
+    "make": "Mazda",
+    "model": "CX-5",
+    "fair_market_value": 24800.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 552.44,
+    "monthly_delta_vs_current": 93.56,
+    "reliability_score": 91,
+    "tech_score": 83,
+    "deal_score": 39.9,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:20.859120"
   },
   {
     "id": "kijiji-1746533642",
@@ -1837,7 +1883,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947765"
+    "last_verified": "2026-11-25T00:56:20.859132"
   },
   {
     "id": "kijiji-1746405081",
@@ -1860,7 +1906,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947774"
+    "last_verified": "2026-11-25T00:56:20.859139"
   },
   {
     "id": "kijiji-1746405071",
@@ -1883,7 +1929,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947778"
+    "last_verified": "2026-11-25T00:56:20.859145"
   },
   {
     "id": "kijiji-1746404976",
@@ -1906,7 +1952,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947783"
+    "last_verified": "2026-11-25T00:56:20.859151"
   },
   {
     "id": "kijiji-1746533630",
@@ -1929,7 +1975,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947788"
+    "last_verified": "2026-11-25T00:56:20.859158"
   },
   {
     "id": "kijiji-1744491117",
@@ -1952,7 +1998,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947792"
+    "last_verified": "2026-11-25T00:56:20.859164"
   },
   {
     "id": "kijiji-1745724135",
@@ -1975,7 +2021,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947807"
+    "last_verified": "2026-11-25T00:56:20.859185"
   },
   {
     "id": "kijiji-1745591775",
@@ -1998,7 +2044,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947813"
+    "last_verified": "2026-11-25T00:56:20.859193"
   },
   {
     "id": "kijiji-1744711732",
@@ -2021,7 +2067,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947819"
+    "last_verified": "2026-11-25T00:56:20.859200"
   },
   {
     "id": "kijiji-1746436730",
@@ -2044,7 +2090,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947829"
+    "last_verified": "2026-11-25T00:56:20.859214"
   },
   {
     "id": "kijiji-1744491114",
@@ -2067,7 +2113,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947834"
+    "last_verified": "2026-11-25T00:56:20.859222"
   },
   {
     "id": "kijiji-1745823350",
@@ -2090,7 +2136,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947839"
+    "last_verified": "2026-11-25T00:56:20.859229"
   },
   {
     "id": "kijiji-1745645873",
@@ -2113,7 +2159,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947849"
+    "last_verified": "2026-11-25T00:56:20.859243"
   },
   {
     "id": "kijiji-1743946653",
@@ -2136,7 +2182,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947855"
+    "last_verified": "2026-11-25T00:56:20.859251"
   },
   {
     "id": "kijiji-1745429952",
@@ -2159,7 +2205,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947886"
+    "last_verified": "2026-11-25T00:56:20.859296"
   },
   {
     "id": "kijiji-1738508807",
@@ -2182,7 +2228,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947891"
+    "last_verified": "2026-11-25T00:56:20.859302"
   },
   {
     "id": "kijiji-1743760760",
@@ -2205,7 +2251,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947904"
+    "last_verified": "2026-11-25T00:56:20.859322"
   },
   {
     "id": "kijiji-1741769683",
@@ -2228,7 +2274,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947909"
+    "last_verified": "2026-11-25T00:56:20.859328"
   },
   {
     "id": "kijiji-1742943287",
@@ -2251,7 +2297,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947913"
+    "last_verified": "2026-11-25T00:56:20.859334"
   },
   {
     "id": "kijiji-1745200094",
@@ -2274,7 +2320,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947918"
+    "last_verified": "2026-11-25T00:56:20.859340"
   },
   {
     "id": "kijiji-1745075593",
@@ -2297,7 +2343,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947923"
+    "last_verified": "2026-11-25T00:56:20.859346"
   },
   {
     "id": "kijiji-1745781481",
@@ -2320,7 +2366,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947927"
+    "last_verified": "2026-11-25T00:56:20.859353"
   },
   {
     "id": "kijiji-1745671901",
@@ -2343,53 +2389,7 @@
     "tech_score": 83,
     "deal_score": 39.9,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:29.947932"
-  },
-  {
-    "id": "kijiji-1746620158",
-    "title": "2020 Mazda Mazda3 Sport GT",
-    "year": 2020,
-    "price": 22990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-mazda-mazda3-sport-gt/1746620158",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 517.12,
-    "monthly_delta_vs_current": 128.88,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660533"
-  },
-  {
-    "id": "kijiji-1746620164",
-    "title": "2023 Mazda Mazda3 Sport GS",
-    "year": 2023,
-    "price": 25590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-mazda-mazda3-sport-gs/1746620164",
-    "model_id": "mazda-3-awd",
-    "make": "Mazda",
-    "model": "Mazda3",
-    "fair_market_value": 22200.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 564.27,
-    "monthly_delta_vs_current": 81.73,
-    "reliability_score": 90,
-    "tech_score": 86,
-    "deal_score": 39.8,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660540"
+    "last_verified": "2026-11-25T00:56:20.859359"
   },
   {
     "id": "kijiji-1744624777",
@@ -2412,7 +2412,53 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660544"
+    "last_verified": "2026-11-25T00:56:10.116607"
+  },
+  {
+    "id": "kijiji-1746620158",
+    "title": "2020 Mazda Mazda3 Sport GT",
+    "year": 2020,
+    "price": 22990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-mazda-mazda3-sport-gt/1746620158",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 517.12,
+    "monthly_delta_vs_current": 128.88,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:10.116615"
+  },
+  {
+    "id": "kijiji-1746620164",
+    "title": "2023 Mazda Mazda3 Sport GS",
+    "year": 2023,
+    "price": 25590.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-mazda-mazda3-sport-gs/1746620164",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 564.27,
+    "monthly_delta_vs_current": 81.73,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:10.116622"
   },
   {
     "id": "kijiji-1746490142",
@@ -2435,7 +2481,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660558"
+    "last_verified": "2026-11-25T00:56:10.116635"
   },
   {
     "id": "kijiji-1746447416",
@@ -2458,7 +2504,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660563"
+    "last_verified": "2026-11-25T00:56:10.116646"
   },
   {
     "id": "kijiji-1740107045",
@@ -2481,7 +2527,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660568"
+    "last_verified": "2026-11-25T00:56:10.116653"
   },
   {
     "id": "kijiji-1746405052",
@@ -2504,7 +2550,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660573"
+    "last_verified": "2026-11-25T00:56:10.116659"
   },
   {
     "id": "kijiji-1746361930",
@@ -2527,7 +2573,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660577"
+    "last_verified": "2026-11-25T00:56:10.116665"
   },
   {
     "id": "kijiji-1743943233",
@@ -2550,7 +2596,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660582"
+    "last_verified": "2026-11-25T00:56:10.116671"
   },
   {
     "id": "kijiji-1746228563",
@@ -2573,7 +2619,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660591"
+    "last_verified": "2026-11-25T00:56:10.116683"
   },
   {
     "id": "kijiji-1746272381",
@@ -2596,7 +2642,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660595"
+    "last_verified": "2026-11-25T00:56:10.116690"
   },
   {
     "id": "kijiji-1746228601",
@@ -2619,7 +2665,30 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660599"
+    "last_verified": "2026-11-25T00:56:10.116695"
+  },
+  {
+    "id": "kijiji-1746011801",
+    "title": "2023 Mazda Mazda3 Sport GT w/Turbo | Awd | Toit Ouvrant | Apple ",
+    "year": 2023,
+    "price": 26395.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-mazda-mazda3-sport-gt-w-turbo-awd-toit-ouvrant-apple/1746011801",
+    "model_id": "mazda-3-awd",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "fair_market_value": 22200.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 579.7,
+    "monthly_delta_vs_current": 66.3,
+    "reliability_score": 90,
+    "tech_score": 86,
+    "deal_score": 39.8,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:10.116745"
   },
   {
     "id": "kijiji-1746046392",
@@ -2642,7 +2711,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660638"
+    "last_verified": "2026-11-25T00:56:10.116759"
   },
   {
     "id": "kijiji-1746046363",
@@ -2665,7 +2734,7 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660642"
+    "last_verified": "2026-11-25T00:56:10.116765"
   },
   {
     "id": "kijiji-1746277166",
@@ -2688,30 +2757,30 @@
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660646"
+    "last_verified": "2026-11-25T00:56:10.116794"
   },
   {
-    "id": "1744491106",
-    "title": "2025 Mazda Mazda3 Sport GS | mags | bluetooth",
+    "id": "1746125113",
+    "title": "2025 Mazda Mazda3 Sport GS",
     "year": 2025,
-    "price": 24744.0,
-    "km": 40850,
+    "price": 25344.0,
+    "km": 45203,
     "location": "Gatineau / Outaouais, QC",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2025-mazda-mazda3-sport-gs-mags-bluetooth/1744491106",
+    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2025-mazda-mazda3-sport-gs/1746125113",
     "model_id": "mazda-3-awd",
     "make": "Mazda",
     "model": "Mazda3",
     "fair_market_value": 22200.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 548.06,
-    "monthly_delta_vs_current": 97.94,
+    "est_monthly_tco_qc": 559.56,
+    "monthly_delta_vs_current": 86.44,
     "reliability_score": 90,
     "tech_score": 86,
     "deal_score": 39.8,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:19.660655"
+    "last_verified": "2026-11-25T00:56:10.116801"
   },
   {
     "id": "kijiji-1746303889",
@@ -2734,30 +2803,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.691967"
-  },
-  {
-    "id": "kijiji-1746533608",
-    "title": "2021 Toyota Corolla",
-    "year": 2021,
-    "price": 21290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-toyota-corolla/1746533608",
-    "model_id": "toyota-corolla",
-    "make": "Toyota",
-    "model": "Corolla",
-    "fair_market_value": 20900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 462.42,
-    "monthly_delta_vs_current": 183.58,
-    "reliability_score": 95,
-    "tech_score": 81,
-    "deal_score": 39.5,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.691990"
+    "last_verified": "2026-11-25T00:56:07.311945"
   },
   {
     "id": "kijiji-1746082236",
@@ -2780,7 +2826,30 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.691995"
+    "last_verified": "2026-11-25T00:56:07.311966"
+  },
+  {
+    "id": "kijiji-1746533608",
+    "title": "2021 Toyota Corolla",
+    "year": 2021,
+    "price": 21290.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-toyota-corolla/1746533608",
+    "model_id": "toyota-corolla",
+    "make": "Toyota",
+    "model": "Corolla",
+    "fair_market_value": 20900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 462.42,
+    "monthly_delta_vs_current": 183.58,
+    "reliability_score": 95,
+    "tech_score": 81,
+    "deal_score": 39.5,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:07.311983"
   },
   {
     "id": "kijiji-1746447464",
@@ -2803,7 +2872,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692000"
+    "last_verified": "2026-11-25T00:56:07.311990"
   },
   {
     "id": "kijiji-1746447423",
@@ -2826,7 +2895,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692005"
+    "last_verified": "2026-11-25T00:56:07.312002"
   },
   {
     "id": "kijiji-1746405037",
@@ -2849,7 +2918,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692027"
+    "last_verified": "2026-11-25T00:56:07.312031"
   },
   {
     "id": "kijiji-1745152594",
@@ -2872,7 +2941,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692036"
+    "last_verified": "2026-11-25T00:56:07.312039"
   },
   {
     "id": "kijiji-1746575647",
@@ -2895,7 +2964,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692051"
+    "last_verified": "2026-11-25T00:56:07.312060"
   },
   {
     "id": "kijiji-1746511642",
@@ -2918,7 +2987,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692055"
+    "last_verified": "2026-11-25T00:56:07.312067"
   },
   {
     "id": "kijiji-1746272395",
@@ -2941,7 +3010,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692060"
+    "last_verified": "2026-11-25T00:56:07.312074"
   },
   {
     "id": "kijiji-1746405008",
@@ -2964,7 +3033,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692064"
+    "last_verified": "2026-11-25T00:56:07.312080"
   },
   {
     "id": "kijiji-1745999673",
@@ -2987,7 +3056,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692068"
+    "last_verified": "2026-11-25T00:56:07.312086"
   },
   {
     "id": "kijiji-1745999558",
@@ -3010,7 +3079,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692072"
+    "last_verified": "2026-11-25T00:56:07.312092"
   },
   {
     "id": "kijiji-1746315502",
@@ -3033,7 +3102,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692076"
+    "last_verified": "2026-11-25T00:56:07.312098"
   },
   {
     "id": "kijiji-1743786865",
@@ -3056,7 +3125,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692083"
+    "last_verified": "2026-11-25T00:56:07.312107"
   },
   {
     "id": "kijiji-1746136772",
@@ -3079,7 +3148,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692087"
+    "last_verified": "2026-11-25T00:56:07.312113"
   },
   {
     "id": "kijiji-1739041421",
@@ -3102,7 +3171,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692095"
+    "last_verified": "2026-11-25T00:56:07.312119"
   },
   {
     "id": "kijiji-1745459214",
@@ -3125,7 +3194,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692099"
+    "last_verified": "2026-11-25T00:56:07.312132"
   },
   {
     "id": "kijiji-1745823365",
@@ -3148,7 +3217,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692103"
+    "last_verified": "2026-11-25T00:56:07.312138"
   },
   {
     "id": "kijiji-1745999952",
@@ -3171,7 +3240,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692107"
+    "last_verified": "2026-11-25T00:56:07.312144"
   },
   {
     "id": "kijiji-1745733018",
@@ -3194,7 +3263,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692111"
+    "last_verified": "2026-11-25T00:56:07.312150"
   },
   {
     "id": "kijiji-1746034257",
@@ -3217,7 +3286,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692120"
+    "last_verified": "2026-11-25T00:56:07.312163"
   },
   {
     "id": "kijiji-1746034255",
@@ -3240,7 +3309,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692124"
+    "last_verified": "2026-11-25T00:56:07.312169"
   },
   {
     "id": "kijiji-1745868358",
@@ -3263,30 +3332,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692128"
-  },
-  {
-    "id": "kijiji-1744116126",
-    "title": "2024 Toyota Corolla SE | Mags | Cam\u00e9ra | Carplay | Android | A\u00e9r",
-    "year": 2024,
-    "price": 26990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2024-toyota-corolla-se-mags-camera-carplay-android-aer/1744116126",
-    "model_id": "toyota-corolla",
-    "make": "Toyota",
-    "model": "Corolla",
-    "fair_market_value": 20900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 564.73,
-    "monthly_delta_vs_current": 81.27,
-    "reliability_score": 95,
-    "tech_score": 81,
-    "deal_score": 39.5,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692132"
+    "last_verified": "2026-11-25T00:56:07.312175"
   },
   {
     "id": "kijiji-1745823286",
@@ -3309,7 +3355,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692140"
+    "last_verified": "2026-11-25T00:56:07.312187"
   },
   {
     "id": "kijiji-1744852281",
@@ -3332,7 +3378,30 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692144"
+    "last_verified": "2026-11-25T00:56:07.312194"
+  },
+  {
+    "id": "kijiji-1726300226",
+    "title": "2020 Toyota Corolla LE - CLEAN CARFAX, LOW MILEAGE, READY!",
+    "year": 2020,
+    "price": 21995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/pembroke/2020-toyota-corolla-le-clean-carfax-low-mileage-ready/1726300226",
+    "model_id": "toyota-corolla",
+    "make": "Toyota",
+    "model": "Corolla",
+    "fair_market_value": 20900.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 474.17,
+    "monthly_delta_vs_current": 171.83,
+    "reliability_score": 95,
+    "tech_score": 81,
+    "deal_score": 39.5,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:07.312201"
   },
   {
     "id": "1746436798",
@@ -3355,7 +3424,7 @@
     "tech_score": 81,
     "deal_score": 39.5,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:15.692149"
+    "last_verified": "2026-11-25T00:56:07.312207"
   },
   {
     "id": "kijiji-1742968473",
@@ -3378,7 +3447,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450160"
+    "last_verified": "2026-11-25T00:56:25.829355"
   },
   {
     "id": "kijiji-1744351447",
@@ -3401,7 +3470,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450177"
+    "last_verified": "2026-11-25T00:56:25.829372"
   },
   {
     "id": "kijiji-1746533739",
@@ -3424,7 +3493,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450184"
+    "last_verified": "2026-11-25T00:56:25.829380"
   },
   {
     "id": "kijiji-1746476786",
@@ -3447,7 +3516,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450189"
+    "last_verified": "2026-11-25T00:56:25.829388"
   },
   {
     "id": "kijiji-1746490133",
@@ -3470,7 +3539,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450195"
+    "last_verified": "2026-11-25T00:56:25.829395"
   },
   {
     "id": "kijiji-1746447310",
@@ -3493,7 +3562,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450210"
+    "last_verified": "2026-11-25T00:56:25.829409"
   },
   {
     "id": "kijiji-1746361925",
@@ -3516,7 +3585,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450214"
+    "last_verified": "2026-11-25T00:56:25.829416"
   },
   {
     "id": "kijiji-1744294387",
@@ -3539,7 +3608,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450220"
+    "last_verified": "2026-11-25T00:56:25.829424"
   },
   {
     "id": "kijiji-1746183602",
@@ -3562,7 +3631,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450225"
+    "last_verified": "2026-11-25T00:56:25.829430"
   },
   {
     "id": "kijiji-1746622139",
@@ -3585,7 +3654,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450238"
+    "last_verified": "2026-11-25T00:56:25.829446"
   },
   {
     "id": "kijiji-1743879196",
@@ -3608,7 +3677,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450244"
+    "last_verified": "2026-11-25T00:56:25.829453"
   },
   {
     "id": "kijiji-1745176868",
@@ -3631,7 +3700,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450249"
+    "last_verified": "2026-11-25T00:56:25.829460"
   },
   {
     "id": "kijiji-1743776119",
@@ -3654,13 +3723,13 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450254"
+    "last_verified": "2026-11-25T00:56:25.829467"
   },
   {
     "id": "kijiji-1745994774",
     "title": "2024 Subaru Crosstrek Touring",
     "year": 2024,
-    "price": 27495.0,
+    "price": 26599.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
@@ -3671,13 +3740,13 @@
     "fair_market_value": 23900.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 593.74,
-    "monthly_delta_vs_current": 52.26,
+    "est_monthly_tco_qc": 576.57,
+    "monthly_delta_vs_current": 69.43,
     "reliability_score": 85,
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450258"
+    "last_verified": "2026-11-25T00:56:25.829473"
   },
   {
     "id": "kijiji-1744294219",
@@ -3700,7 +3769,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450263"
+    "last_verified": "2026-11-25T00:56:25.829481"
   },
   {
     "id": "kijiji-1746437071",
@@ -3723,7 +3792,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450268"
+    "last_verified": "2026-11-25T00:56:25.829488"
   },
   {
     "id": "kijiji-1745217612",
@@ -3746,7 +3815,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450273"
+    "last_verified": "2026-11-25T00:56:25.829495"
   },
   {
     "id": "kijiji-1742912236",
@@ -3769,7 +3838,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450278"
+    "last_verified": "2026-11-25T00:56:25.829507"
   },
   {
     "id": "kijiji-1745912287",
@@ -3792,7 +3861,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450285"
+    "last_verified": "2026-11-25T00:56:25.829514"
   },
   {
     "id": "kijiji-1745061836",
@@ -3815,7 +3884,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450290"
+    "last_verified": "2026-11-25T00:56:25.829523"
   },
   {
     "id": "kijiji-1742693008",
@@ -3838,7 +3907,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450295"
+    "last_verified": "2026-11-25T00:56:25.829530"
   },
   {
     "id": "kijiji-1745140924",
@@ -3861,7 +3930,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450300"
+    "last_verified": "2026-11-25T00:56:25.829537"
   },
   {
     "id": "kijiji-1745333439",
@@ -3884,7 +3953,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450305"
+    "last_verified": "2026-11-25T00:56:25.829544"
   },
   {
     "id": "kijiji-1745679177",
@@ -3907,30 +3976,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450309"
-  },
-  {
-    "id": "kijiji-1745575017",
-    "title": "2023 Subaru Crosstrek Outdoor | Si\u00e8ges Chauff | Cam\u00e9ra Recul | B",
-    "year": 2023,
-    "price": 25995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-subaru-crosstrek-outdoor-sieges-chauff-camera-recul-b/1745575017",
-    "model_id": "subaru-crosstrek",
-    "make": "Subaru",
-    "model": "Crosstrek",
-    "fair_market_value": 23900.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 565.0,
-    "monthly_delta_vs_current": 81.0,
-    "reliability_score": 85,
-    "tech_score": 83,
-    "deal_score": 39.0,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450315"
+    "last_verified": "2026-11-25T00:56:25.829550"
   },
   {
     "id": "kijiji-1743887479",
@@ -3953,7 +3999,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450319"
+    "last_verified": "2026-11-25T00:56:25.829556"
   },
   {
     "id": "kijiji-1742412819",
@@ -3976,7 +4022,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450325"
+    "last_verified": "2026-11-25T00:56:25.829564"
   },
   {
     "id": "kijiji-1746569378",
@@ -3999,7 +4045,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450329"
+    "last_verified": "2026-11-25T00:56:25.829570"
   },
   {
     "id": "kijiji-1744902955",
@@ -4022,7 +4068,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450334"
+    "last_verified": "2026-11-25T00:56:25.829576"
   },
   {
     "id": "kijiji-1746445808",
@@ -4045,7 +4091,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450338"
+    "last_verified": "2026-11-25T00:56:25.829582"
   },
   {
     "id": "kijiji-1746437070",
@@ -4068,7 +4114,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450343"
+    "last_verified": "2026-11-25T00:56:25.829588"
   },
   {
     "id": "kijiji-1744316548",
@@ -4091,7 +4137,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450347"
+    "last_verified": "2026-11-25T00:56:25.829595"
   },
   {
     "id": "kijiji-1742724623",
@@ -4114,7 +4160,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450352"
+    "last_verified": "2026-11-25T00:56:25.829600"
   },
   {
     "id": "kijiji-1745603350",
@@ -4137,7 +4183,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450356"
+    "last_verified": "2026-11-25T00:56:25.829607"
   },
   {
     "id": "kijiji-1745039901",
@@ -4160,7 +4206,7 @@
     "tech_score": 83,
     "deal_score": 39.0,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:36.450361"
+    "last_verified": "2026-11-25T00:56:25.829613"
   },
   {
     "id": "kijiji-1745503475",
@@ -4183,53 +4229,30 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510312"
+    "last_verified": "2026-11-25T00:56:16.869640"
   },
   {
-    "id": "kijiji-1744121008",
+    "id": "kijiji-1744120995",
     "title": "2022 Honda Civic Sedan Sport | 1 Owner | Heated Seats | Sunroof",
     "year": 2022,
-    "price": 26149.0,
+    "price": 27899.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/london/2022-honda-civic-sedan-sport-1-owner-heated-seats-sunroof/1744121008",
+    "url": "https://www.kijiji.ca/v-cars-trucks/london/2022-honda-civic-sedan-sport-1-owner-heated-seats-sunroof/1744120995",
     "model_id": "honda-civic",
     "make": "Honda",
     "model": "Civic",
     "fair_market_value": 22400.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 545.81,
-    "monthly_delta_vs_current": 100.19,
+    "est_monthly_tco_qc": 579.35,
+    "monthly_delta_vs_current": 66.65,
     "reliability_score": 89,
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510328"
-  },
-  {
-    "id": "kijiji-1742982151",
-    "title": "2023 Honda Civic Sport",
-    "year": 2023,
-    "price": 25995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-sport/1742982151",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 542.86,
-    "monthly_delta_vs_current": 103.14,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510334"
+    "last_verified": "2026-11-25T00:56:16.869658"
   },
   {
     "id": "kijiji-1745674807",
@@ -4252,7 +4275,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510338"
+    "last_verified": "2026-11-25T00:56:16.869667"
   },
   {
     "id": "kijiji-1742982282",
@@ -4275,513 +4298,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510343"
-  },
-  {
-    "id": "kijiji-1746533688",
-    "title": "2020 Honda Civic Sport",
-    "year": 2020,
-    "price": 23290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-honda-civic-sport/1746533688",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 492.95,
-    "monthly_delta_vs_current": 153.05,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510351"
-  },
-  {
-    "id": "kijiji-1746533672",
-    "title": "2022 Honda Civic Touring",
-    "year": 2022,
-    "price": 23990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-touring/1746533672",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 504.62,
-    "monthly_delta_vs_current": 141.38,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510355"
-  },
-  {
-    "id": "kijiji-1746533597",
-    "title": "2022 Honda Civic Sport",
-    "year": 2022,
-    "price": 27290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-sport/1746533597",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 567.68,
-    "monthly_delta_vs_current": 78.32,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510359"
-  },
-  {
-    "id": "kijiji-1746405000",
-    "title": "2019 Honda Civic EX",
-    "year": 2019,
-    "price": 22990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2019-honda-civic-ex/1746405000",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 487.95,
-    "monthly_delta_vs_current": 158.05,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510363"
-  },
-  {
-    "id": "kijiji-1746404991",
-    "title": "2023 Honda Civic EX",
-    "year": 2023,
-    "price": 26290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-ex/1746404991",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 548.52,
-    "monthly_delta_vs_current": 97.48,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510367"
-  },
-  {
-    "id": "kijiji-1746388146",
-    "title": "2023 Honda Civic Sedan",
-    "year": 2023,
-    "price": 26590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-honda-civic-sedan/1746388146",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 554.27,
-    "monthly_delta_vs_current": 91.73,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510384"
-  },
-  {
-    "id": "kijiji-1746272103",
-    "title": "2022 Honda Civic Touring",
-    "year": 2022,
-    "price": 23500.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ouest-de-lile-qc/2022-honda-civic-touring/1746272103",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 496.45,
-    "monthly_delta_vs_current": 149.55,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510388"
-  },
-  {
-    "id": "kijiji-1746490198",
-    "title": "2023 Honda Civic LX-B",
-    "year": 2023,
-    "price": 24590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-lx-b/1746490198",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 515.94,
-    "monthly_delta_vs_current": 130.06,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510393"
-  },
-  {
-    "id": "kijiji-1746471772",
-    "title": "2022 Honda Civic Sedan Touring",
-    "year": 2022,
-    "price": 26490.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2022-honda-civic-sedan-touring/1746471772",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 552.35,
-    "monthly_delta_vs_current": 93.65,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510406"
-  },
-  {
-    "id": "kijiji-1746315583",
-    "title": "2022 Honda Civic EX",
-    "year": 2022,
-    "price": 24590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-ex/1746315583",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 515.94,
-    "monthly_delta_vs_current": 130.06,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510411"
-  },
-  {
-    "id": "kijiji-1746272284",
-    "title": "2020 Honda Civic EX",
-    "year": 2020,
-    "price": 23290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-honda-civic-ex/1746272284",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 492.95,
-    "monthly_delta_vs_current": 153.05,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510415"
-  },
-  {
-    "id": "kijiji-1746228614",
-    "title": "2024 Honda Civic Sport",
-    "year": 2024,
-    "price": 26590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2024-honda-civic-sport/1746228614",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 554.27,
-    "monthly_delta_vs_current": 91.73,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510419"
-  },
-  {
-    "id": "kijiji-1746136917",
-    "title": "2022 Honda Civic Touring",
-    "year": 2022,
-    "price": 24290.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-touring/1746136917",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 510.19,
-    "monthly_delta_vs_current": 135.81,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510428"
-  },
-  {
-    "id": "kijiji-1746136709",
-    "title": "2024 Honda Civic Sport",
-    "year": 2024,
-    "price": 27990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2024-honda-civic-sport/1746136709",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 581.09,
-    "monthly_delta_vs_current": 64.91,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510432"
-  },
-  {
-    "id": "kijiji-1745191544",
-    "title": "2021 Honda Civic Sedan LX BAS KM",
-    "year": 2021,
-    "price": 24995.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2021-honda-civic-sedan-lx-bas-km/1745191544",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 523.7,
-    "monthly_delta_vs_current": 122.3,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510442"
-  },
-  {
-    "id": "kijiji-1746046366",
-    "title": "2022 Honda Civic Touring",
-    "year": 2022,
-    "price": 24990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-touring/1746046366",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 523.61,
-    "monthly_delta_vs_current": 122.39,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510446"
-  },
-  {
-    "id": "kijiji-1746026934",
-    "title": "Honda civic sport 2020",
-    "year": 2020,
-    "price": 24780.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/honda-civic-sport-2020/1746026934",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 519.58,
-    "monthly_delta_vs_current": 126.42,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510455"
-  },
-  {
-    "id": "kijiji-1745999580",
-    "title": "2023 Honda Civic Sport",
-    "year": 2023,
-    "price": 26590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-sport/1745999580",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 554.27,
-    "monthly_delta_vs_current": 91.73,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510459"
-  },
-  {
-    "id": "kijiji-1745999703",
-    "title": "2022 Honda Civic Sport",
-    "year": 2022,
-    "price": 27590.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-sport/1745999703",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 573.43,
-    "monthly_delta_vs_current": 72.57,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510463"
-  },
-  {
-    "id": "kijiji-1745999804",
-    "title": "2022 Honda Civic Touring",
-    "year": 2022,
-    "price": 25990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-touring/1745999804",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 542.77,
-    "monthly_delta_vs_current": 103.23,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510466"
-  },
-  {
-    "id": "kijiji-1746136632",
-    "title": "2023 Honda Civic LX-B",
-    "year": 2023,
-    "price": 22990.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-lx-b/1746136632",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 487.95,
-    "monthly_delta_vs_current": 158.05,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510470"
-  },
-  {
-    "id": "kijiji-1746142114",
-    "title": "2021 Honda Civic Sedan LX",
-    "year": 2021,
-    "price": 23499.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-honda-civic-sedan-lx/1746142114",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 496.43,
-    "monthly_delta_vs_current": 149.57,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510475"
+    "last_verified": "2026-11-25T00:56:16.869675"
   },
   {
     "id": "kijiji-1740470121",
@@ -4804,53 +4321,513 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510479"
+    "last_verified": "2026-11-25T00:56:16.869682"
   },
   {
-    "id": "kijiji-1745868405",
+    "id": "kijiji-1746533688",
+    "title": "2020 Honda Civic Sport",
+    "year": 2020,
+    "price": 23290.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-honda-civic-sport/1746533688",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 492.95,
+    "monthly_delta_vs_current": 153.05,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869704"
+  },
+  {
+    "id": "kijiji-1746533672",
+    "title": "2022 Honda Civic Touring",
+    "year": 2022,
+    "price": 23990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-touring/1746533672",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 504.62,
+    "monthly_delta_vs_current": 141.38,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869711"
+  },
+  {
+    "id": "kijiji-1746533597",
+    "title": "2022 Honda Civic Sport",
+    "year": 2022,
+    "price": 27290.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-sport/1746533597",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 567.68,
+    "monthly_delta_vs_current": 78.32,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869718"
+  },
+  {
+    "id": "kijiji-1745191544",
+    "title": "2021 Honda Civic Sedan LX BAS KM",
+    "year": 2021,
+    "price": 24995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/laval-rive-nord/2021-honda-civic-sedan-lx-bas-km/1745191544",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 523.7,
+    "monthly_delta_vs_current": 122.3,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869725"
+  },
+  {
+    "id": "kijiji-1741575030",
+    "title": "2023 Honda Civic Sedan Carplay, Bluetooth, Cam\u00e9ra, Phares \u00e0 DEL,",
+    "year": 2023,
+    "price": 22814.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-honda-civic-sedan-carplay-bluetooth-camera-phares-a-del/1741575030",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 485.02,
+    "monthly_delta_vs_current": 160.98,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869732"
+  },
+  {
+    "id": "kijiji-1746490198",
+    "title": "2023 Honda Civic LX-B",
+    "year": 2023,
+    "price": 24590.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-lx-b/1746490198",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 515.94,
+    "monthly_delta_vs_current": 130.06,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869738"
+  },
+  {
+    "id": "kijiji-1746471772",
+    "title": "2022 Honda Civic Sedan Touring",
+    "year": 2022,
+    "price": 26490.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2022-honda-civic-sedan-touring/1746471772",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 552.35,
+    "monthly_delta_vs_current": 93.65,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869757"
+  },
+  {
+    "id": "kijiji-1742982151",
+    "title": "2023 Honda Civic Sport",
+    "year": 2023,
+    "price": 25995.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-sport/1742982151",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 542.86,
+    "monthly_delta_vs_current": 103.14,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869764"
+  },
+  {
+    "id": "kijiji-1746405000",
+    "title": "2019 Honda Civic EX",
+    "year": 2019,
+    "price": 22990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2019-honda-civic-ex/1746405000",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 487.95,
+    "monthly_delta_vs_current": 158.05,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869803"
+  },
+  {
+    "id": "kijiji-1746404991",
+    "title": "2023 Honda Civic EX",
+    "year": 2023,
+    "price": 26290.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-ex/1746404991",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 548.52,
+    "monthly_delta_vs_current": 97.48,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869811"
+  },
+  {
+    "id": "kijiji-1746388146",
+    "title": "2023 Honda Civic Sedan",
+    "year": 2023,
+    "price": 26590.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-honda-civic-sedan/1746388146",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 554.27,
+    "monthly_delta_vs_current": 91.73,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869825"
+  },
+  {
+    "id": "kijiji-1746272103",
+    "title": "2022 Honda Civic Touring",
+    "year": 2022,
+    "price": 23500.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ouest-de-lile-qc/2022-honda-civic-touring/1746272103",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 496.45,
+    "monthly_delta_vs_current": 149.55,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869831"
+  },
+  {
+    "id": "kijiji-1746026895",
+    "title": "2023 Honda Civic Sedan Carplay, Bluetooth, Cam\u00e9ra, Phares \u00e0 DEL,",
+    "year": 2023,
+    "price": 24489.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/2023-honda-civic-sedan-carplay-bluetooth-camera-phares-a-del/1746026895",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 514.0,
+    "monthly_delta_vs_current": 132.0,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869839"
+  },
+  {
+    "id": "kijiji-1746315583",
     "title": "2022 Honda Civic EX",
     "year": 2022,
-    "price": 23590.0,
+    "price": 24590.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-ex/1745868405",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-ex/1746315583",
     "model_id": "honda-civic",
     "make": "Honda",
     "model": "Civic",
     "fair_market_value": 22400.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 497.95,
-    "monthly_delta_vs_current": 148.05,
+    "est_monthly_tco_qc": 515.94,
+    "monthly_delta_vs_current": 130.06,
     "reliability_score": 89,
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510483"
+    "last_verified": "2026-11-25T00:56:16.869846"
   },
   {
-    "id": "kijiji-1740384933",
-    "title": "2021 Honda Civic Sedan",
-    "year": 2021,
-    "price": 23495.0,
+    "id": "kijiji-1746272284",
+    "title": "2020 Honda Civic EX",
+    "year": 2020,
+    "price": 23290.0,
     "km": 62000,
     "location": "Gatineau / Ottawa",
     "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/longueuil-rive-sud/2021-honda-civic-sedan/1740384933",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2020-honda-civic-ex/1746272284",
     "model_id": "honda-civic",
     "make": "Honda",
     "model": "Civic",
     "fair_market_value": 22400.0,
     "discount_cad": 0.0,
     "discount_pct": 0.0,
-    "est_monthly_tco_qc": 496.37,
-    "monthly_delta_vs_current": 149.63,
+    "est_monthly_tco_qc": 492.95,
+    "monthly_delta_vs_current": 153.05,
     "reliability_score": 89,
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510487"
+    "last_verified": "2026-11-25T00:56:16.869852"
+  },
+  {
+    "id": "kijiji-1746228614",
+    "title": "2024 Honda Civic Sport",
+    "year": 2024,
+    "price": 26590.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2024-honda-civic-sport/1746228614",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 554.27,
+    "monthly_delta_vs_current": 91.73,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869859"
+  },
+  {
+    "id": "kijiji-1746142114",
+    "title": "2021 Honda Civic Sedan LX",
+    "year": 2021,
+    "price": 23499.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2021-honda-civic-sedan-lx/1746142114",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 496.43,
+    "monthly_delta_vs_current": 149.57,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869881"
+  },
+  {
+    "id": "kijiji-1746136917",
+    "title": "2022 Honda Civic Touring",
+    "year": 2022,
+    "price": 24290.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-touring/1746136917",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 510.19,
+    "monthly_delta_vs_current": 135.81,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869895"
+  },
+  {
+    "id": "kijiji-1746136709",
+    "title": "2024 Honda Civic Sport",
+    "year": 2024,
+    "price": 27990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2024-honda-civic-sport/1746136709",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 581.09,
+    "monthly_delta_vs_current": 64.91,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869903"
+  },
+  {
+    "id": "kijiji-1746136632",
+    "title": "2023 Honda Civic LX-B",
+    "year": 2023,
+    "price": 22990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-honda-civic-lx-b/1746136632",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 487.95,
+    "monthly_delta_vs_current": 158.05,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869913"
+  },
+  {
+    "id": "kijiji-1746046366",
+    "title": "2022 Honda Civic Touring",
+    "year": 2022,
+    "price": 24990.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2022-honda-civic-touring/1746046366",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 523.61,
+    "monthly_delta_vs_current": 122.39,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869920"
+  },
+  {
+    "id": "kijiji-1746026934",
+    "title": "Honda civic sport 2020",
+    "year": 2020,
+    "price": 24780.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/honda-civic-sport-2020/1746026934",
+    "model_id": "honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "fair_market_value": 22400.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 519.58,
+    "monthly_delta_vs_current": 126.42,
+    "reliability_score": 89,
+    "tech_score": 85,
+    "deal_score": 38.7,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:16.869933"
   },
   {
     "id": "kijiji-1745999842",
@@ -4873,53 +4850,7 @@
     "tech_score": 85,
     "deal_score": 38.7,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510491"
-  },
-  {
-    "id": "1746447283",
-    "title": "2025 Honda Civic LX",
-    "year": 2025,
-    "price": 26590.0,
-    "km": 13304,
-    "location": "Gatineau / Outaouais, QC",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2025-honda-civic-lx/1746447283",
-    "model_id": "honda-civic",
-    "make": "Honda",
-    "model": "Civic",
-    "fair_market_value": 22400.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 554.27,
-    "monthly_delta_vs_current": 91.73,
-    "reliability_score": 89,
-    "tech_score": 85,
-    "deal_score": 38.7,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:26.510496"
-  },
-  {
-    "id": "kijiji-1746535232",
-    "title": "Chevrolet Bolt EUV 2023",
-    "year": 2023,
-    "price": 25000.0,
-    "km": 62000,
-    "location": "Gatineau / Ottawa",
-    "source": "Kijiji Direct Ad",
-    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/chevrolet-bolt-euv-2023/1746535232",
-    "model_id": "chevy-bolt-euv",
-    "make": "Chevrolet",
-    "model": "Bolt",
-    "fair_market_value": 23800.0,
-    "discount_cad": 0.0,
-    "discount_pct": 0.0,
-    "est_monthly_tco_qc": 433.23,
-    "monthly_delta_vs_current": 212.77,
-    "reliability_score": 84,
-    "tech_score": 89,
-    "deal_score": 38.1,
-    "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:23.342994"
+    "last_verified": "2026-11-25T00:56:16.869939"
   },
   {
     "id": "kijiji-1746443636",
@@ -4942,7 +4873,30 @@
     "tech_score": 89,
     "deal_score": 38.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:23.343012"
+    "last_verified": "2026-11-25T00:56:13.759090"
+  },
+  {
+    "id": "kijiji-1746535232",
+    "title": "Chevrolet Bolt EUV 2023",
+    "year": 2023,
+    "price": 25000.0,
+    "km": 62000,
+    "location": "Gatineau / Ottawa",
+    "source": "Kijiji Direct Ad",
+    "url": "https://www.kijiji.ca/v-cars-trucks/ville-de-montreal/chevrolet-bolt-euv-2023/1746535232",
+    "model_id": "chevy-bolt-euv",
+    "make": "Chevrolet",
+    "model": "Bolt",
+    "fair_market_value": 23800.0,
+    "discount_cad": 0.0,
+    "discount_pct": 0.0,
+    "est_monthly_tco_qc": 433.23,
+    "monthly_delta_vs_current": 212.77,
+    "reliability_score": 84,
+    "tech_score": 89,
+    "deal_score": 38.1,
+    "status": "AVAILABLE",
+    "last_verified": "2026-11-25T00:56:13.759106"
   },
   {
     "id": "kijiji-1745688678",
@@ -4965,7 +4919,7 @@
     "tech_score": 89,
     "deal_score": 38.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:23.343019"
+    "last_verified": "2026-11-25T00:56:13.759116"
   },
   {
     "id": "1743666984",
@@ -4988,7 +4942,7 @@
     "tech_score": 89,
     "deal_score": 38.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:23.343024"
+    "last_verified": "2026-11-25T00:56:13.759124"
   },
   {
     "id": "kijiji-1744838753",
@@ -5011,7 +4965,7 @@
     "tech_score": 90,
     "deal_score": 38.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:39.568714"
+    "last_verified": "2026-11-25T00:56:28.298306"
   },
   {
     "id": "kijiji-1745912375",
@@ -5034,6 +4988,6 @@
     "tech_score": 90,
     "deal_score": 38.1,
     "status": "AVAILABLE",
-    "last_verified": "2026-11-24T18:50:39.568738"
+    "last_verified": "2026-11-25T00:56:28.298345"
   }
 ]
